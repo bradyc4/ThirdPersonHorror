@@ -4,3 +4,12 @@ make the sounds 3d (foot steps should sound like they're coming from the players
 make an NPC to have dialogue with
 make main menu
 get prison assets (jail cell door/ bars)
+make a landscape
+
+
+Ideas-----
+The game could begin with a black screen with white text that fades in
+"where am I? how did I get here?"
+the game fades in, we are in a prison cell, the player has a few moments to walk around and explore the cell
+an NPC walks up to the cell and makes a noise to get our attention,
+the player can walk up and talk to the npc.
