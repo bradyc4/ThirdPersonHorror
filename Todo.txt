@@ -5,6 +5,7 @@ make an NPC to have dialogue with
 make main menu
 get prison assets (jail cell door/ bars)
 make a landscape
+flashlight mechanic
 
 
 Ideas-----
