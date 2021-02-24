@@ -2,9 +2,10 @@ change skybox
 figure out how to put a weapon in the players hand
 make the sounds 3d (foot steps should sound like they're coming from the players feet)
 make an NPC to have dialogue with
+make main menu
 get prison assets (jail cell door/ bars)
 make a landscape
-make a light switch
+flashlight mechanic
 
 
 Ideas-----
