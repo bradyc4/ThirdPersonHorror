@@ -835,3 +835,741 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.01-23.02.55:712][297]AssetCheck: New page: Asset Save: multiple assets
 [2021.03.01-23.02.55:713][297]LogContentValidation: Display: Validating World /Game/Maps/Newmap.Newmap
 [2021.03.01-23.02.55:713][297]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Newmap_BuiltData.Newmap_BuiltData
+[2021.03.01-23.03.38:598][632]LogEditorViewport: Clicking on Actor (LMB): Prison_C (Prison)
+[2021.03.01-23.03.43:169][153]LogEditorViewport: Clicking on Actor (LMB): Prison_C (Prison)
+[2021.03.01-23.03.43:867][222]LogEditorViewport: Clicking on Actor (LMB): Prison_C (Prison)
+[2021.03.01-23.08.53:962][167]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.03.01-23.09.00:008][814]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2021.03.01-23.09.03:055][ 48]LogSlate: Took 0.024526 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.01-23.10.46:646][139]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door
+[2021.03.01-23.10.47:766][139]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-23.10.47:766][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-23.10.48:400][140]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2021.03.01-23.12.07:328][782]LogStaticMesh: Building static mesh SM_Door...
+[2021.03.01-23.12.07:380][782]LogStaticMesh: Built static mesh [0.06s] /Game/StarterContent/Props/SM_Door.SM_Door
+[2021.03.01-23.12.23:047][894]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/SM_DoorC0748E1E48B43E525AE70A9967FE9EC0.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/StarterContent/Props/SM_Door.uasset'
+[2021.03.01-23.12.23:069][894]AssetCheck: New page: Asset Save: SM_Door
+[2021.03.01-23.12.23:069][894]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door
+[2021.03.01-23.12.41:238][438]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/SM_DoorB0EFC6CB43598E091F6486AB7B07451C.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/StarterContent/Props/SM_Door.uasset'
+[2021.03.01-23.12.41:255][438]AssetCheck: New page: Asset Save: SM_Door
+[2021.03.01-23.12.41:255][438]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door
+[2021.03.01-23.12.42:021][489]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-23.12.42:021][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-23.13.58:292][118]LogSlate: Took 0.024224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.03.01-23.14.17:065][138]BlueprintLog: New page: Compile BP_Door
+[2021.03.01-23.14.17:199][138]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2021.03.01-23.15.09:790][367]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.03.01-23.15.09:795][367]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Newmap' took 0.072
+[2021.03.01-23.15.09:796][367]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Door] ([1] browsable assets)...
+[2021.03.01-23.15.09:807][367]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Door.BP_Door]
+[2021.03.01-23.15.09:807][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Door]
+[2021.03.01-23.15.09:828][367]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/BP_Door_Auto1C82063C948E265A9D85CADB4D9FFED54.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/Autosaves/Game/Blueprints/BP_Door_Auto1.uasset'
+[2021.03.01-23.15.09:828][367]LogFileHelpers: Auto-saving content packages took 0.033
+[2021.03.01-23.18.35:369][583]BlueprintLog: New page: Compile BP_Door
+[2021.03.01-23.18.35:421][583]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.03.01-23.18.35:978][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2021.03.01-23.18.35:998][629]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/BP_Door6359BCF64119B776F5EEC68BC2515C4D.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Blueprints/BP_Door.uasset'
+[2021.03.01-23.18.36:012][629]AssetCheck: New page: Asset Save: BP_Door
+[2021.03.01-23.18.36:012][629]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2021.03.01-23.24.57:752][885]BlueprintLog: New page: Compile BP_Door
+[2021.03.01-23.24.57:822][885]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.03.01-23.24.59:482][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2021.03.01-23.24.59:533][ 14]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/BP_DoorE1DC3BA04FAE4C0901C922984006E5C8.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Blueprints/BP_Door.uasset'
+[2021.03.01-23.24.59:552][ 14]AssetCheck: New page: Asset Save: BP_Door
+[2021.03.01-23.24.59:552][ 14]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2021.03.01-23.25.01:397][168]LogSlate: Window 'BP_Door' being destroyed
+[2021.03.01-23.25.01:402][168]LogSlate: Window 'BP_Door' being destroyed
+[2021.03.01-23.25.01:428][168]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-23.25.01:429][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-23.25.35:422][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.03.01-23.25.35:631][191]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/Newmap_Auto2B8772DCD4B3A453FEE38E889D5BFEBB4.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/Autosaves/Game/Maps/Newmap_Auto2.umap'
+[2021.03.01-23.25.35:633][191]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Newmap' took 0.269
+[2021.03.01-23.25.35:633][191]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.269
+[2021.03.01-23.27.04:739][541]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.01-23.27.08:309][914]LogEditorViewport: Clicking on Actor (LMB): Prison_C (Prison)
+[2021.03.01-23.27.09:733][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.03.01-23.27.09:931][ 67]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/NewmapB1CD618C447480BC0EE9349103A57BB2.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/Newmap.umap'
+[2021.03.01-23.27.09:969][ 67]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 1
+SessionName : PropertyEditor
+Reason      : Map Saved
+
+Purging the undo buffer...
+
+[2021.03.01-23.27.09:997][ 67]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/Newmap_BuiltDataB132D8CD42371E8C775E5E8B19D55821.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/Newmap_BuiltData.uasset'
+[2021.03.01-23.27.10:017][ 67]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.01-23.27.10:018][ 67]LogContentValidation: Display: Validating World /Game/Maps/Newmap.Newmap
+[2021.03.01-23.27.10:018][ 67]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Newmap_BuiltData.Newmap_BuiltData
+[2021.03.01-23.27.10:889][150]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.01-23.27.10:910][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.01-23.27.10:910][150]PIE: New page: PIE session: Newmap (Mar 1, 2021, 1:27:10 PM)
+[2021.03.01-23.27.10:910][150]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Newmap
+[2021.03.01-23.27.10:948][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037716s)
+[2021.03.01-23.27.10:949][150]LogAIModule: Creating AISystem for world Newmap
+[2021.03.01-23.27.10:949][150]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000266DFAB8800), frame # 75150
+[2021.03.01-23.27.10:949][150]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026716C0EE80), frame # 75150
+[2021.03.01-23.27.10:950][150]LogPlayLevel: PIE: World Init took: (0.001610s)
+[2021.03.01-23.27.10:950][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Newmap.Newmap to /Game/Maps/UEDPIE_0_Newmap.Newmap (0.039486s)
+[2021.03.01-23.27.10:971][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.03.01-23.27.10:972][150]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.01-23.27.10:972][150]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.01-23.27.10:972][150]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.01-23.27.10:972][150]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.01-23.27.10:972][150]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.01-23.27.10:972][150]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.01-23.27.10:972][150]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.01-23.27.10:972][150]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.01-23.27.10:973][150]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.01-23.27.10:973][150]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.01-23.27.10:978][150]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.01-23.27.10:978][150]LogAudioMixer: Display: 1: FrontRight
+[2021.03.01-23.27.10:997][150]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.03.01-23.27.10:997][150]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.01-23.27.10:997][150]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.01-23.27.10:997][150]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.01-23.27.10:998][150]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.01-23.27.11:013][150]LogInit: FAudioDevice initialized.
+[2021.03.01-23.27.11:052][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-23.27.11:052][150]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.01-23.27.11:076][150]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Newmap.Newmap up for play (max tick rate 0) at 2021.03.01-18.27.11
+[2021.03.01-23.27.11:076][150]LogWorld: Bringing up level for play took: 0.023255
+[2021.03.01-23.27.11:076][150]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.03.01-23.27.11:085][150]PIE: Server logged in
+[2021.03.01-23.27.11:087][150]PIE: Play in editor total start time 0.177 seconds.
+[2021.03.01-23.27.53:124][958]Set new viewmode: Lit
+[2021.03.01-23.27.53:899][ 31]Set new viewmode: Unlit
+[2021.03.01-23.28.44:157][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-23.28.44:157][649]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Newmap
+[2021.03.01-23.28.44:160][649]LogSlate: Window 'ThirdPersonHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.03.01-23.28.44:169][649]LogWorld: UWorld::CleanupWorld for Newmap, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-23.28.44:186][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-23.28.44:197][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.01-23.28.44:200][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-23.28.44:243][649]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026716C0EE80), frame # 83649
+[2021.03.01-23.28.44:243][649]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000266DFAB8800), frame # 83649
+[2021.03.01-23.28.44:246][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.03.01-23.28.44:290][650]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.03.01-23.28.49:034][117]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.01-23.28.49:057][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.01-23.28.49:058][117]PIE: New page: PIE session: Newmap (Mar 1, 2021, 1:28:49 PM)
+[2021.03.01-23.28.49:058][117]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Newmap
+[2021.03.01-23.28.49:096][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037955s)
+[2021.03.01-23.28.49:097][117]LogAIModule: Creating AISystem for world Newmap
+[2021.03.01-23.28.49:097][117]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026716699000), frame # 84117
+[2021.03.01-23.28.49:097][117]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026705AFA5C0), frame # 84117
+[2021.03.01-23.28.49:097][117]LogPlayLevel: PIE: World Init took: (0.001471s)
+[2021.03.01-23.28.49:097][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Newmap.Newmap to /Game/Maps/UEDPIE_0_Newmap.Newmap (0.039564s)
+[2021.03.01-23.28.49:119][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.03.01-23.28.49:121][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.01-23.28.49:121][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.01-23.28.49:121][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.01-23.28.49:121][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.01-23.28.49:121][117]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.01-23.28.49:121][117]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.01-23.28.49:121][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.01-23.28.49:121][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.01-23.28.49:122][117]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.01-23.28.49:122][117]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.01-23.28.49:127][117]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.01-23.28.49:127][117]LogAudioMixer: Display: 1: FrontRight
+[2021.03.01-23.28.49:146][117]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.03.01-23.28.49:146][117]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.01-23.28.49:146][117]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.01-23.28.49:147][117]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.01-23.28.49:147][117]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.01-23.28.49:162][117]LogInit: FAudioDevice initialized.
+[2021.03.01-23.28.49:203][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-23.28.49:203][117]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.01-23.28.49:225][117]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Newmap.Newmap up for play (max tick rate 0) at 2021.03.01-18.28.49
+[2021.03.01-23.28.49:226][117]LogWorld: Bringing up level for play took: 0.021725
+[2021.03.01-23.28.49:226][117]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.03.01-23.28.49:234][117]PIE: Server logged in
+[2021.03.01-23.28.49:236][117]PIE: Play in editor total start time 0.182 seconds.
+[2021.03.01-23.28.51:440][264]Set new viewmode: Unlit
+[2021.03.01-23.29.21:205][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-23.29.21:205][609]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Newmap
+[2021.03.01-23.29.21:206][609]LogSlate: Window 'ThirdPersonHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.03.01-23.29.21:212][609]LogWorld: UWorld::CleanupWorld for Newmap, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-23.29.21:224][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-23.29.21:232][609]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.01-23.29.21:236][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-23.29.21:278][609]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026705AFA5C0), frame # 87609
+[2021.03.01-23.29.21:278][609]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026716699000), frame # 87609
+[2021.03.01-23.29.21:281][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.03.01-23.29.21:322][610]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.03.01-23.29.23:057][817]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2021.03.01-23.29.25:095][ 56]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2021.03.01-23.29.25:229][ 69]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (DoorFrame)
+[2021.03.01-23.29.27:799][329]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2021.03.01-23.36.41:270][853]LogEditorTransaction: Undo Modify Component(s)
+[2021.03.01-23.39.43:294][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.03.01-23.39.43:491][762]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/Newmap_Auto386D6E06F487F6EA3F5F451B60DD88441.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/Autosaves/Game/Maps/Newmap_Auto3.umap'
+[2021.03.01-23.39.43:493][762]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Newmap' took 0.235
+[2021.03.01-23.39.43:493][762]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.235
+[2021.03.01-23.39.43:493][762]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Door] ([1] browsable assets)...
+[2021.03.01-23.39.43:504][762]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Door.BP_Door]
+[2021.03.01-23.39.43:504][762]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Door]
+[2021.03.01-23.39.43:541][762]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/BP_Door_Auto322F6843743375AAEBAE05AB9CF2DF365.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/Autosaves/Game/Blueprints/BP_Door_Auto3.uasset'
+[2021.03.01-23.39.43:542][762]LogFileHelpers: Auto-saving content packages took 0.049
+[2021.03.01-23.40.04:681][686]BlueprintLog: New page: Compile BP_Door
+[2021.03.01-23.40.04:740][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.03.01-23.40.06:076][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2021.03.01-23.40.06:109][794]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/BP_DoorD6C913AD44ABCE81EB9CA4AC99D9217E.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Blueprints/BP_Door.uasset'
+[2021.03.01-23.40.06:128][794]AssetCheck: New page: Asset Save: BP_Door
+[2021.03.01-23.40.06:128][794]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2021.03.01-23.40.07:242][879]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.01-23.40.07:269][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.01-23.40.07:269][879]PIE: New page: PIE session: Newmap (Mar 1, 2021, 1:40:07 PM)
+[2021.03.01-23.40.07:269][879]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Newmap
+[2021.03.01-23.40.07:307][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037388s)
+[2021.03.01-23.40.07:308][879]LogAIModule: Creating AISystem for world Newmap
+[2021.03.01-23.40.07:308][879]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000267163CA200), frame # 108879
+[2021.03.01-23.40.07:309][879]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000266E4CD8A40), frame # 108879
+[2021.03.01-23.40.07:309][879]LogPlayLevel: PIE: World Init took: (0.001906s)
+[2021.03.01-23.40.07:309][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Newmap.Newmap to /Game/Maps/UEDPIE_0_Newmap.Newmap (0.039470s)
+[2021.03.01-23.40.07:334][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.03.01-23.40.07:335][879]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.01-23.40.07:335][879]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.01-23.40.07:335][879]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.01-23.40.07:335][879]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.01-23.40.07:335][879]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.01-23.40.07:335][879]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.01-23.40.07:335][879]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.01-23.40.07:335][879]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.01-23.40.07:336][879]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.01-23.40.07:336][879]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.01-23.40.07:341][879]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.01-23.40.07:341][879]LogAudioMixer: Display: 1: FrontRight
+[2021.03.01-23.40.07:360][879]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.03.01-23.40.07:360][879]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.01-23.40.07:360][879]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.01-23.40.07:360][879]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.01-23.40.07:361][879]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.01-23.40.07:374][879]LogInit: FAudioDevice initialized.
+[2021.03.01-23.40.07:421][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-23.40.07:421][879]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.01-23.40.07:443][879]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Newmap.Newmap up for play (max tick rate 0) at 2021.03.01-18.40.07
+[2021.03.01-23.40.07:444][879]LogWorld: Bringing up level for play took: 0.022203
+[2021.03.01-23.40.07:444][879]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.03.01-23.40.07:454][879]PIE: Server logged in
+[2021.03.01-23.40.07:456][879]PIE: Play in editor total start time 0.192 seconds.
+[2021.03.01-23.40.35:102][675]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-86.97 Y=214.64 Z=0.00 Location: X=2848.48 Y=7097.32 Z=228.15 Normal: X=-0.50 Y=-0.87 Z=0.00 PenetrationDepth:3.883 Actor:BP_Door_2 Component:Door BoneName:None (0 other events since notify)
+[2021.03.01-23.40.57:398][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-23.40.57:398][121]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Newmap
+[2021.03.01-23.40.57:398][121]LogSlate: Window 'ThirdPersonHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.03.01-23.40.57:405][121]LogWorld: UWorld::CleanupWorld for Newmap, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-23.40.57:415][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-23.40.57:430][121]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.01-23.40.57:436][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-23.40.57:479][121]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000266E4CD8A40), frame # 112121
+[2021.03.01-23.40.57:479][121]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000267163CA200), frame # 112121
+[2021.03.01-23.40.57:482][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.03.01-23.40.57:538][122]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.03.01-23.47.30:799][739]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\cbrad\OneDrive\Documents\GitHub\ThirdPersonHorror\Assets\SoundEffects\door opening cut.wav)
+[2021.03.01-23.47.30:829][739]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave door_opening_cut...
+[2021.03.01-23.47.30:829][739]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SoundEffects/door_opening_cut.door_opening_cut will be modified from 40 to 40.
+[2021.03.01-23.47.30:930][739]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 128764 while cooking SoundWave /Game/SoundEffects/door_opening_cut.door_opening_cut.
+[2021.03.01-23.47.57:628][478]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/SoundEffects/door_opening_cut_Cue.door_opening_cut_Cue
+[2021.03.01-23.50.33:710][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.03.01-23.50.33:909][427]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/Newmap_Auto44B62D8BC4C62774101E0AABC5C19EF71.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/Autosaves/Game/Maps/Newmap_Auto4.umap'
+[2021.03.01-23.50.33:911][427]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Newmap' took 0.232
+[2021.03.01-23.50.33:911][427]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.232
+[2021.03.01-23.50.33:912][427]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Door] ([1] browsable assets)...
+[2021.03.01-23.50.33:912][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Door]
+[2021.03.01-23.50.33:961][427]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/BP_Door_Auto46F79BE0A42F97FEC3D6AB58A7437A35D.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/Autosaves/Game/Blueprints/BP_Door_Auto4.uasset'
+[2021.03.01-23.50.33:962][427]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SoundEffects/door_opening_cut] ([1] browsable assets)...
+[2021.03.01-23.50.33:966][427]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/SoundEffects/door_opening_cut.door_opening_cut]
+[2021.03.01-23.50.33:966][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/SoundEffects/door_opening_cut]
+[2021.03.01-23.50.33:975][427]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/door_opening_cut_Auto4658FBD62459B43D775462099C4CA947F.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/Autosaves/Game/SoundEffects/door_opening_cut_Auto4.uasset'
+[2021.03.01-23.50.33:975][427]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SoundEffects/door_opening_cut_Cue] ([1] browsable assets)...
+[2021.03.01-23.50.33:975][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/SoundEffects/door_opening_cut_Cue]
+[2021.03.01-23.50.33:983][427]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/door_opening_cut_Cue_Auto4A1400F884033CCC633F3F59866CCB144.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/Autosaves/Game/SoundEffects/door_opening_cut_Cue_Auto4.uasset'
+[2021.03.01-23.50.33:983][427]LogFileHelpers: Auto-saving content packages took 0.072
+[2021.03.01-23.52.20:604][213]LogSlate: Window 'door_opening_cut_Cue' being destroyed
+[2021.03.01-23.52.20:608][213]LogSlate: Window 'door_opening_cut_Cue' being destroyed
+[2021.03.01-23.52.20:630][213]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-23.52.20:630][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-23.52.44:442][823]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2021.03.01-23.57.02:936][281]BlueprintLog: New page: Compile BP_Door
+[2021.03.01-23.57.03:002][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.03.01-23.57.03:550][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2021.03.01-23.57.03:601][322]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/BP_Door9DC9DFB849236FFF98483D8C96D87E3F.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Blueprints/BP_Door.uasset'
+[2021.03.01-23.57.03:618][322]AssetCheck: New page: Asset Save: BP_Door
+[2021.03.01-23.57.03:618][322]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2021.03.01-23.57.04:652][411]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.01-23.57.04:676][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.01-23.57.04:676][411]PIE: New page: PIE session: Newmap (Mar 1, 2021, 1:57:04 PM)
+[2021.03.01-23.57.04:676][411]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Newmap
+[2021.03.01-23.57.04:715][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039216s)
+[2021.03.01-23.57.04:717][411]LogAIModule: Creating AISystem for world Newmap
+[2021.03.01-23.57.04:717][411]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002676D26C200), frame # 179411
+[2021.03.01-23.57.04:717][411]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000266D8C8A840), frame # 179411
+[2021.03.01-23.57.04:717][411]LogPlayLevel: PIE: World Init took: (0.002050s)
+[2021.03.01-23.57.04:717][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Newmap.Newmap to /Game/Maps/UEDPIE_0_Newmap.Newmap (0.041439s)
+[2021.03.01-23.57.04:742][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.03.01-23.57.04:743][411]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.01-23.57.04:743][411]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.01-23.57.04:743][411]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.01-23.57.04:743][411]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.01-23.57.04:743][411]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.01-23.57.04:743][411]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.01-23.57.04:743][411]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.01-23.57.04:743][411]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.01-23.57.04:744][411]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.01-23.57.04:744][411]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.01-23.57.04:750][411]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.01-23.57.04:750][411]LogAudioMixer: Display: 1: FrontRight
+[2021.03.01-23.57.04:770][411]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.03.01-23.57.04:770][411]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.01-23.57.04:770][411]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.01-23.57.04:770][411]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.01-23.57.04:771][411]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.01-23.57.04:787][411]LogInit: FAudioDevice initialized.
+[2021.03.01-23.57.04:839][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-23.57.04:839][411]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.01-23.57.04:866][411]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Newmap.Newmap up for play (max tick rate 0) at 2021.03.01-18.57.04
+[2021.03.01-23.57.04:867][411]LogWorld: Bringing up level for play took: 0.026230
+[2021.03.01-23.57.04:867][411]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.03.01-23.57.04:876][411]PIE: Server logged in
+[2021.03.01-23.57.04:880][411]PIE: Play in editor total start time 0.208 seconds.
+[2021.03.01-23.57.07:565][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-23.57.07:565][593]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Newmap
+[2021.03.01-23.57.07:567][593]LogSlate: Window 'ThirdPersonHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.03.01-23.57.07:583][593]LogWorld: UWorld::CleanupWorld for Newmap, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-23.57.07:609][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-23.57.07:630][593]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.01-23.57.07:637][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-23.57.07:702][593]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000266D8C8A840), frame # 179593
+[2021.03.01-23.57.07:702][593]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002676D26C200), frame # 179593
+[2021.03.01-23.57.07:707][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.03.01-23.57.07:800][594]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.03.01-23.57.09:787][792]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.01-23.57.09:807][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.01-23.57.09:807][792]PIE: New page: PIE session: Newmap (Mar 1, 2021, 1:57:09 PM)
+[2021.03.01-23.57.09:807][792]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Newmap
+[2021.03.01-23.57.09:845][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038213s)
+[2021.03.01-23.57.09:846][792]LogAIModule: Creating AISystem for world Newmap
+[2021.03.01-23.57.09:846][792]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000266D042F400), frame # 179792
+[2021.03.01-23.57.09:846][792]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026704E482C0), frame # 179792
+[2021.03.01-23.57.09:846][792]LogPlayLevel: PIE: World Init took: (0.001588s)
+[2021.03.01-23.57.09:846][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Newmap.Newmap to /Game/Maps/UEDPIE_0_Newmap.Newmap (0.039977s)
+[2021.03.01-23.57.09:869][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.03.01-23.57.09:870][792]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.01-23.57.09:870][792]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.01-23.57.09:870][792]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.01-23.57.09:870][792]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.01-23.57.09:870][792]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.01-23.57.09:870][792]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.01-23.57.09:870][792]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.01-23.57.09:870][792]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.01-23.57.09:871][792]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.01-23.57.09:871][792]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.01-23.57.09:876][792]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.01-23.57.09:876][792]LogAudioMixer: Display: 1: FrontRight
+[2021.03.01-23.57.09:892][792]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.03.01-23.57.09:893][792]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.01-23.57.09:893][792]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.01-23.57.09:893][792]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.01-23.57.09:932][792]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.01-23.57.09:934][792]LogInit: FAudioDevice initialized.
+[2021.03.01-23.57.09:964][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-23.57.09:965][792]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.01-23.57.09:987][792]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Newmap.Newmap up for play (max tick rate 0) at 2021.03.01-18.57.09
+[2021.03.01-23.57.09:988][792]LogWorld: Bringing up level for play took: 0.022370
+[2021.03.01-23.57.09:988][792]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.03.01-23.57.09:997][792]PIE: Server logged in
+[2021.03.01-23.57.10:000][792]PIE: Play in editor total start time 0.194 seconds.
+[2021.03.01-23.57.40:294][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-23.57.40:294][591]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Newmap
+[2021.03.01-23.57.40:294][591]LogSlate: Window 'ThirdPersonHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.03.01-23.57.40:304][591]LogWorld: UWorld::CleanupWorld for Newmap, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-23.57.40:315][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-23.57.40:327][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.01-23.57.40:331][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-23.57.40:372][591]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026704E482C0), frame # 181591
+[2021.03.01-23.57.40:372][591]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000266D042F400), frame # 181591
+[2021.03.01-23.57.40:375][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.03.01-23.57.40:431][592]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.03.01-23.58.00:120][604]BlueprintLog: New page: Compile BP_Door
+[2021.03.01-23.58.00:163][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.03.01-23.58.01:049][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2021.03.01-23.58.01:081][674]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/BP_Door875E88E44066EE3C0D5903A3B56B42A2.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Blueprints/BP_Door.uasset'
+[2021.03.01-23.58.01:094][674]AssetCheck: New page: Asset Save: BP_Door
+[2021.03.01-23.58.01:094][674]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2021.03.01-23.58.01:961][743]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.01-23.58.01:986][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.01-23.58.01:986][743]PIE: New page: PIE session: Newmap (Mar 1, 2021, 1:58:01 PM)
+[2021.03.01-23.58.01:986][743]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Newmap
+[2021.03.01-23.58.02:024][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038251s)
+[2021.03.01-23.58.02:026][743]LogAIModule: Creating AISystem for world Newmap
+[2021.03.01-23.58.02:026][743]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026725B03E00), frame # 183743
+[2021.03.01-23.58.02:026][743]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026721675080), frame # 183743
+[2021.03.01-23.58.02:026][743]LogPlayLevel: PIE: World Init took: (0.001570s)
+[2021.03.01-23.58.02:026][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Newmap.Newmap to /Game/Maps/UEDPIE_0_Newmap.Newmap (0.039974s)
+[2021.03.01-23.58.02:051][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.03.01-23.58.02:052][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.01-23.58.02:052][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.01-23.58.02:052][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.01-23.58.02:052][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.01-23.58.02:052][743]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.01-23.58.02:052][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.01-23.58.02:052][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.01-23.58.02:052][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.01-23.58.02:053][743]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.01-23.58.02:053][743]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.01-23.58.02:058][743]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.01-23.58.02:058][743]LogAudioMixer: Display: 1: FrontRight
+[2021.03.01-23.58.02:075][743]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.03.01-23.58.02:075][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.01-23.58.02:075][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.01-23.58.02:075][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.01-23.58.02:076][743]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.01-23.58.02:091][743]LogInit: FAudioDevice initialized.
+[2021.03.01-23.58.02:136][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-23.58.02:136][743]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.01-23.58.02:167][743]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Newmap.Newmap up for play (max tick rate 0) at 2021.03.01-18.58.02
+[2021.03.01-23.58.02:167][743]LogWorld: Bringing up level for play took: 0.029682
+[2021.03.01-23.58.02:167][743]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.03.01-23.58.02:176][743]PIE: Server logged in
+[2021.03.01-23.58.02:178][743]PIE: Play in editor total start time 0.195 seconds.
+[2021.03.01-23.58.03:344][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-23.58.03:344][802]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Newmap
+[2021.03.01-23.58.03:344][802]LogSlate: Window 'ThirdPersonHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.03.01-23.58.03:354][802]LogWorld: UWorld::CleanupWorld for Newmap, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-23.58.03:382][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-23.58.03:403][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.01-23.58.03:408][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-23.58.03:463][802]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026721675080), frame # 183802
+[2021.03.01-23.58.03:463][802]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026725B03E00), frame # 183802
+[2021.03.01-23.58.03:466][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.03.01-23.58.03:541][803]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.03.01-23.58.05:012][939]LogSlate: Window 'BP_Door' being destroyed
+[2021.03.01-23.58.05:018][939]LogSlate: Window 'BP_Door' being destroyed
+[2021.03.01-23.58.05:018][939]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-23.58.05:019][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-23.58.13:619][933]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2021.03.01-23.58.20:390][727]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.03.01-23.58.21:978][913]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.03.01-23.58.22:838][ 14]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.03.01-23.58.24:924][260]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.03.01-23.58.27:257][534]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.03.01-23.58.29:836][837]Cmd: TRANSACTION UNDO
+[2021.03.01-23.58.29:836][837]LogEditorTransaction: Undo Move Actors
+[2021.03.01-23.58.31:185][948]Cmd: TRANSACTION UNDO
+[2021.03.01-23.58.31:185][948]LogEditorTransaction: Undo Move Actors
+[2021.03.01-23.58.31:818][ 22]Cmd: TRANSACTION UNDO
+[2021.03.01-23.58.31:818][ 22]LogEditorTransaction: Undo Move Actors
+[2021.03.01-23.58.32:406][ 91]Cmd: TRANSACTION UNDO
+[2021.03.01-23.58.32:406][ 91]LogEditorTransaction: Undo Move Actors
+[2021.03.01-23.58.32:923][152]Cmd: TRANSACTION UNDO
+[2021.03.01-23.58.32:923][152]LogEditorTransaction: Undo Move Actors
+[2021.03.01-23.58.33:677][238]Cmd: TRANSACTION UNDO
+[2021.03.01-23.58.33:677][238]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.01-23.58.38:945][850]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2021.03.01-23.58.39:931][960]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.03.01-23.58.41:949][197]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.03.01-23.58.42:752][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.03.01-23.58.42:954][280]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/Newmap0C80E37D4B646F55593E798F98AC366B.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/Newmap.umap'
+[2021.03.01-23.58.43:023][280]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/Newmap_BuiltData4E25E43D4F92CD178998538E8E338F92.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/Newmap_BuiltData.uasset'
+[2021.03.01-23.58.43:043][280]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.01-23.58.43:043][280]LogContentValidation: Display: Validating World /Game/Maps/Newmap.Newmap
+[2021.03.01-23.58.43:043][280]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Newmap_BuiltData.Newmap_BuiltData
+[2021.03.01-23.58.43:492][324]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.01-23.58.43:518][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.01-23.58.43:518][324]PIE: New page: PIE session: Newmap (Mar 1, 2021, 1:58:43 PM)
+[2021.03.01-23.58.43:518][324]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Newmap
+[2021.03.01-23.58.43:556][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038011s)
+[2021.03.01-23.58.43:557][324]LogAIModule: Creating AISystem for world Newmap
+[2021.03.01-23.58.43:557][324]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000266E778D800), frame # 188324
+[2021.03.01-23.58.43:557][324]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000266C1470180), frame # 188324
+[2021.03.01-23.58.43:557][324]LogPlayLevel: PIE: World Init took: (0.001647s)
+[2021.03.01-23.58.43:557][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Newmap.Newmap to /Game/Maps/UEDPIE_0_Newmap.Newmap (0.039829s)
+[2021.03.01-23.58.43:581][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.03.01-23.58.43:582][324]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.01-23.58.43:582][324]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.01-23.58.43:582][324]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.01-23.58.43:590][324]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.01-23.58.43:590][324]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.01-23.58.43:590][324]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.01-23.58.43:590][324]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.01-23.58.43:590][324]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.01-23.58.43:591][324]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.01-23.58.43:591][324]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.01-23.58.43:603][324]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.01-23.58.43:603][324]LogAudioMixer: Display: 1: FrontRight
+[2021.03.01-23.58.43:628][324]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.03.01-23.58.43:628][324]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.01-23.58.43:629][324]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.01-23.58.43:629][324]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.01-23.58.43:629][324]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.01-23.58.43:648][324]LogInit: FAudioDevice initialized.
+[2021.03.01-23.58.43:678][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-23.58.43:679][324]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.01-23.58.43:710][324]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Newmap.Newmap up for play (max tick rate 0) at 2021.03.01-18.58.43
+[2021.03.01-23.58.43:711][324]LogWorld: Bringing up level for play took: 0.030360
+[2021.03.01-23.58.43:711][324]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.03.01-23.58.43:720][324]PIE: Server logged in
+[2021.03.01-23.58.43:724][324]PIE: Play in editor total start time 0.209 seconds.
+[2021.03.02-00.01.10:590][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-00.01.10:590][558]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Newmap
+[2021.03.02-00.01.10:591][558]LogSlate: Window 'ThirdPersonHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.03.02-00.01.10:601][558]LogWorld: UWorld::CleanupWorld for Newmap, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-00.01.10:627][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-00.01.10:640][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.02-00.01.10:649][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-00.01.10:709][558]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000266C1470180), frame # 196558
+[2021.03.02-00.01.10:709][558]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000266E778D800), frame # 196558
+[2021.03.02-00.01.10:713][558]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.03.02-00.01.10:819][559]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.03.02-00.05.54:850][481]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\cbrad\OneDrive\Documents\GitHub\ThirdPersonHorror\Assets\SoundEffects\doorclose.wav)
+[2021.03.02-00.05.54:866][481]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave doorclose...
+[2021.03.02-00.05.54:866][481]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SoundEffects/doorclose.doorclose will be modified from 40 to 40.
+[2021.03.02-00.05.54:882][481]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 77430 while cooking SoundWave /Game/SoundEffects/doorclose.doorclose.
+[2021.03.02-00.05.59:801][932]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/SoundEffects/doorclose_Cue.doorclose_Cue
+[2021.03.02-00.06.16:973][637]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/doorclose_CueF60D21D141F24C815EE3D9AB075A56E1.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/SoundEffects/doorclose_Cue.uasset'
+[2021.03.02-00.06.17:006][637]AssetCheck: New page: Asset Save: doorclose_Cue
+[2021.03.02-00.06.17:006][637]LogContentValidation: Display: Validating SoundCue /Game/SoundEffects/doorclose_Cue.doorclose_Cue
+[2021.03.02-00.06.20:855][ 21]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/doorclose_CueF326FFF242EB4F0188AE0780A2BB0844.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/SoundEffects/doorclose_Cue.uasset'
+[2021.03.02-00.06.20:870][ 21]AssetCheck: New page: Asset Save: doorclose_Cue
+[2021.03.02-00.06.20:871][ 21]LogContentValidation: Display: Validating SoundCue /Game/SoundEffects/doorclose_Cue.doorclose_Cue
+[2021.03.02-00.06.22:018][132]LogSlate: Window 'doorclose_Cue' being destroyed
+[2021.03.02-00.06.22:021][132]LogSlate: Window 'doorclose_Cue' being destroyed
+[2021.03.02-00.07.16:650][315]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2021.03.02-00.08.07:526][960]BlueprintLog: New page: Compile BP_Door
+[2021.03.02-00.08.07:572][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.03.02-00.08.08:204][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2021.03.02-00.08.08:243][  6]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/BP_DoorF9B432C44B0F4BCD10DCC2AB6F13529C.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Blueprints/BP_Door.uasset'
+[2021.03.02-00.08.08:255][  6]AssetCheck: New page: Asset Save: BP_Door
+[2021.03.02-00.08.08:255][  6]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2021.03.02-00.08.10:707][236]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.02-00.08.10:731][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.02-00.08.10:731][236]PIE: New page: PIE session: Newmap (Mar 1, 2021, 2:08:10 PM)
+[2021.03.02-00.08.10:732][236]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Newmap
+[2021.03.02-00.08.10:770][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038463s)
+[2021.03.02-00.08.10:771][236]LogAIModule: Creating AISystem for world Newmap
+[2021.03.02-00.08.10:771][236]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000267822BA000), frame # 212236
+[2021.03.02-00.08.10:772][236]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000266E47AAAC0), frame # 212236
+[2021.03.02-00.08.10:772][236]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2021.03.02-00.08.10:772][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Newmap.Newmap to /Game/Maps/UEDPIE_0_Newmap.Newmap (0.040174s)
+[2021.03.02-00.08.10:795][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.03.02-00.08.10:796][236]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.02-00.08.10:796][236]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.02-00.08.10:796][236]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.02-00.08.10:796][236]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.02-00.08.10:797][236]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.02-00.08.10:797][236]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.02-00.08.10:797][236]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.02-00.08.10:797][236]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.02-00.08.10:797][236]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.02-00.08.10:797][236]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.02-00.08.10:802][236]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.02-00.08.10:802][236]LogAudioMixer: Display: 1: FrontRight
+[2021.03.02-00.08.10:821][236]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.03.02-00.08.10:821][236]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.02-00.08.10:822][236]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.02-00.08.10:822][236]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.02-00.08.10:822][236]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.02-00.08.10:837][236]LogInit: FAudioDevice initialized.
+[2021.03.02-00.08.10:885][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-00.08.10:885][236]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.02-00.08.10:909][236]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Newmap.Newmap up for play (max tick rate 0) at 2021.03.01-19.08.10
+[2021.03.02-00.08.10:909][236]LogWorld: Bringing up level for play took: 0.023611
+[2021.03.02-00.08.10:909][236]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.03.02-00.08.10:918][236]PIE: Server logged in
+[2021.03.02-00.08.10:920][236]PIE: Play in editor total start time 0.192 seconds.
+[2021.03.02-00.08.15:833][619]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-3.76 Y=7.18 Z=0.00 Location: X=2892.02 Y=7219.43 Z=228.15 Normal: X=0.99 Y=0.17 Z=0.00 PenetrationDepth:24.606 Actor:BP_Door_2 Component:Door BoneName:None (0 other events since notify)
+[2021.03.02-00.08.19:749][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-00.08.19:749][855]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Newmap
+[2021.03.02-00.08.19:750][855]LogSlate: Window 'ThirdPersonHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.03.02-00.08.19:757][855]LogWorld: UWorld::CleanupWorld for Newmap, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-00.08.19:776][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-00.08.19:789][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.02-00.08.19:792][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-00.08.19:839][855]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000266E47AAAC0), frame # 212855
+[2021.03.02-00.08.19:839][855]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000267822BA000), frame # 212855
+[2021.03.02-00.08.19:841][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.03.02-00.08.19:878][856]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.03.02-00.08.26:901][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.03.02-00.08.27:094][605]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/Newmap56612764485DEA53BE5E20B272A3BC28.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/Newmap.umap'
+[2021.03.02-00.08.27:161][605]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/Newmap_BuiltData71CDDD204E4E2270BE7A1EA61D317FDC.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/Newmap_BuiltData.uasset'
+[2021.03.02-00.08.27:182][605]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.02-00.08.27:182][605]LogContentValidation: Display: Validating World /Game/Maps/Newmap.Newmap
+[2021.03.02-00.08.27:182][605]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Newmap_BuiltData.Newmap_BuiltData
+[2021.03.02-00.08.46:236][331]BlueprintLog: New page: Compile BP_Door
+[2021.03.02-00.08.46:281][331]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.03.02-00.08.46:748][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2021.03.02-00.08.46:784][360]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/BP_Door6892A278404C5C13DDEFBC9433BD1233.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Blueprints/BP_Door.uasset'
+[2021.03.02-00.08.46:800][360]AssetCheck: New page: Asset Save: BP_Door
+[2021.03.02-00.08.46:800][360]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2021.03.02-00.08.49:437][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.03.02-00.08.49:624][614]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/NewmapB026ECCA44700AD90B6DDCA97F89FFF7.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/Newmap.umap'
+[2021.03.02-00.08.49:685][614]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/Newmap_BuiltData7EF3A103483CBBF6E679439F02F3FD83.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/Newmap_BuiltData.uasset'
+[2021.03.02-00.08.49:698][614]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.02-00.08.49:699][614]LogContentValidation: Display: Validating World /Game/Maps/Newmap.Newmap
+[2021.03.02-00.08.49:699][614]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Newmap_BuiltData.Newmap_BuiltData
+[2021.03.02-00.08.50:060][653]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.02-00.08.50:083][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.02-00.08.50:083][653]PIE: New page: PIE session: Newmap (Mar 1, 2021, 2:08:50 PM)
+[2021.03.02-00.08.50:084][653]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Newmap
+[2021.03.02-00.08.50:122][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038308s)
+[2021.03.02-00.08.50:123][653]LogAIModule: Creating AISystem for world Newmap
+[2021.03.02-00.08.50:123][653]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000266E8F5BE00), frame # 215653
+[2021.03.02-00.08.50:123][653]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000266E538AAC0), frame # 215653
+[2021.03.02-00.08.50:124][653]LogPlayLevel: PIE: World Init took: (0.001692s)
+[2021.03.02-00.08.50:124][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Newmap.Newmap to /Game/Maps/UEDPIE_0_Newmap.Newmap (0.040143s)
+[2021.03.02-00.08.50:147][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.03.02-00.08.50:148][653]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.02-00.08.50:148][653]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.02-00.08.50:148][653]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.02-00.08.50:148][653]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.02-00.08.50:148][653]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.02-00.08.50:148][653]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.02-00.08.50:148][653]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.02-00.08.50:149][653]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.02-00.08.50:149][653]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.02-00.08.50:149][653]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.02-00.08.50:154][653]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.02-00.08.50:154][653]LogAudioMixer: Display: 1: FrontRight
+[2021.03.02-00.08.50:171][653]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.03.02-00.08.50:171][653]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.02-00.08.50:171][653]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.02-00.08.50:171][653]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.02-00.08.50:172][653]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.02-00.08.50:188][653]LogInit: FAudioDevice initialized.
+[2021.03.02-00.08.50:226][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-00.08.50:226][653]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.02-00.08.50:250][653]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Newmap.Newmap up for play (max tick rate 0) at 2021.03.01-19.08.50
+[2021.03.02-00.08.50:250][653]LogWorld: Bringing up level for play took: 0.023862
+[2021.03.02-00.08.50:251][653]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.03.02-00.08.50:260][653]PIE: Server logged in
+[2021.03.02-00.08.50:262][653]PIE: Play in editor total start time 0.182 seconds.
+[2021.03.02-00.09.03:437][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-00.09.03:437][822]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Newmap
+[2021.03.02-00.09.03:438][822]LogSlate: Window 'ThirdPersonHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.03.02-00.09.03:441][822]LogWorld: UWorld::CleanupWorld for Newmap, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-00.09.03:453][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-00.09.03:465][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.02-00.09.03:470][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-00.09.03:516][822]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000266E538AAC0), frame # 216822
+[2021.03.02-00.09.03:516][822]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000266E8F5BE00), frame # 216822
+[2021.03.02-00.09.03:519][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.03.02-00.09.03:555][823]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.03.02-00.10.23:360][666]BlueprintLog: New page: Compile BP_Door
+[2021.03.02-00.10.23:407][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.03.02-00.10.24:355][737]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.02-00.10.24:380][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.02-00.10.24:380][737]PIE: New page: PIE session: Newmap (Mar 1, 2021, 2:10:24 PM)
+[2021.03.02-00.10.24:380][737]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Newmap
+[2021.03.02-00.10.24:419][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038614s)
+[2021.03.02-00.10.24:421][737]LogAIModule: Creating AISystem for world Newmap
+[2021.03.02-00.10.24:421][737]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002678A62C400), frame # 224737
+[2021.03.02-00.10.24:421][737]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000266E8601D00), frame # 224737
+[2021.03.02-00.10.24:421][737]LogPlayLevel: PIE: World Init took: (0.001846s)
+[2021.03.02-00.10.24:421][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Newmap.Newmap to /Game/Maps/UEDPIE_0_Newmap.Newmap (0.040607s)
+[2021.03.02-00.10.24:446][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.03.02-00.10.24:447][737]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.02-00.10.24:447][737]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.02-00.10.24:447][737]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.02-00.10.24:447][737]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.02-00.10.24:447][737]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.02-00.10.24:447][737]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.02-00.10.24:447][737]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.02-00.10.24:447][737]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.02-00.10.24:448][737]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.02-00.10.24:448][737]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.02-00.10.24:453][737]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.02-00.10.24:453][737]LogAudioMixer: Display: 1: FrontRight
+[2021.03.02-00.10.24:472][737]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.03.02-00.10.24:472][737]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.02-00.10.24:472][737]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.02-00.10.24:472][737]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.02-00.10.24:473][737]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.02-00.10.24:486][737]LogInit: FAudioDevice initialized.
+[2021.03.02-00.10.24:539][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-00.10.24:540][737]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.02-00.10.24:569][737]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Newmap.Newmap up for play (max tick rate 0) at 2021.03.01-19.10.24
+[2021.03.02-00.10.24:570][737]LogWorld: Bringing up level for play took: 0.028647
+[2021.03.02-00.10.24:570][737]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.03.02-00.10.24:581][737]PIE: Server logged in
+[2021.03.02-00.10.24:586][737]PIE: Play in editor total start time 0.209 seconds.
+[2021.03.02-00.10.43:175][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-00.10.43:175][814]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Newmap
+[2021.03.02-00.10.43:175][814]LogSlate: Window 'ThirdPersonHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.03.02-00.10.43:187][814]LogWorld: UWorld::CleanupWorld for Newmap, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-00.10.43:197][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-00.10.43:211][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.02-00.10.43:216][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-00.10.43:257][814]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000266E8601D00), frame # 225814
+[2021.03.02-00.10.43:257][814]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002678A62C400), frame # 225814
+[2021.03.02-00.10.43:260][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.03.02-00.10.43:316][815]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.03.02-00.11.16:335][806]BlueprintLog: New page: Compile BP_Door
+[2021.03.02-00.11.16:380][806]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.03.02-00.11.17:076][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2021.03.02-00.11.17:108][858]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/BP_DoorA07854344AE195846CABDEAEE3DB31B7.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Blueprints/BP_Door.uasset'
+[2021.03.02-00.11.17:119][858]AssetCheck: New page: Asset Save: BP_Door
+[2021.03.02-00.11.17:119][858]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2021.03.02-00.11.30:334][236]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/SoundEffects/doorclose_Cue.doorclose_Cue
+[2021.03.02-00.12.34:553][488]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/doorclose_CueC2A3C213474090919A27758C99BF9D06.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/SoundEffects/doorclose_Cue.uasset'
+[2021.03.02-00.12.34:566][488]AssetCheck: New page: Asset Save: doorclose_Cue
+[2021.03.02-00.12.34:566][488]LogContentValidation: Display: Validating SoundCue /Game/SoundEffects/doorclose_Cue.doorclose_Cue
+[2021.03.02-00.12.37:777][829]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.02-00.12.37:800][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.02-00.12.37:800][829]PIE: New page: PIE session: Newmap (Mar 1, 2021, 2:12:37 PM)
+[2021.03.02-00.12.37:801][829]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Newmap
+[2021.03.02-00.12.37:839][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038628s)
+[2021.03.02-00.12.37:841][829]LogAIModule: Creating AISystem for world Newmap
+[2021.03.02-00.12.37:841][829]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002678253FE00), frame # 237829
+[2021.03.02-00.12.37:841][829]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000266CA8791C0), frame # 237829
+[2021.03.02-00.12.37:841][829]LogPlayLevel: PIE: World Init took: (0.001932s)
+[2021.03.02-00.12.37:841][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Newmap.Newmap to /Game/Maps/UEDPIE_0_Newmap.Newmap (0.040715s)
+[2021.03.02-00.12.37:868][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.03.02-00.12.37:890][829]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.02-00.12.37:890][829]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.02-00.12.37:890][829]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.02-00.12.37:890][829]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.02-00.12.37:890][829]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.02-00.12.37:890][829]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.02-00.12.37:890][829]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.02-00.12.37:890][829]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.02-00.12.37:891][829]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.02-00.12.37:891][829]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.02-00.12.37:900][829]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.02-00.12.37:900][829]LogAudioMixer: Display: 1: FrontRight
+[2021.03.02-00.12.37:921][829]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.03.02-00.12.37:922][829]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.02-00.12.37:922][829]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.02-00.12.37:922][829]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.02-00.12.37:922][829]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.02-00.12.37:937][829]LogInit: FAudioDevice initialized.
+[2021.03.02-00.12.37:995][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-00.12.37:995][829]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.02-00.12.38:024][829]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Newmap.Newmap up for play (max tick rate 0) at 2021.03.01-19.12.38
+[2021.03.02-00.12.38:024][829]LogWorld: Bringing up level for play took: 0.028606
+[2021.03.02-00.12.38:024][829]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.03.02-00.12.38:034][829]PIE: Server logged in
+[2021.03.02-00.12.38:035][829]PIE: Play in editor total start time 0.238 seconds.
+[2021.03.02-00.13.22:820][870]Set new viewmode: Unlit
+[2021.03.02-00.14.10:352][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-00.14.10:352][359]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Newmap
+[2021.03.02-00.14.10:353][359]LogSlate: Window 'ThirdPersonHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.03.02-00.14.10:368][359]LogWorld: UWorld::CleanupWorld for Newmap, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-00.14.10:385][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-00.14.10:400][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.02-00.14.10:405][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-00.14.10:452][359]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000266CA8791C0), frame # 246359
+[2021.03.02-00.14.10:452][359]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002678253FE00), frame # 246359
+[2021.03.02-00.14.10:454][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.03.02-00.14.10:499][360]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.03.02-00.14.11:827][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.03.02-00.14.12:022][509]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/NewmapD449FD2545AE8A9DD357B3BA34EBE208.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/Newmap.umap'
+[2021.03.02-00.14.12:089][509]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/Newmap_BuiltData7437E4244A8D369D7AD0D3B02F2D92BF.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/Newmap_BuiltData.uasset'
+[2021.03.02-00.14.12:103][509]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.02-00.14.12:103][509]LogContentValidation: Display: Validating World /Game/Maps/Newmap.Newmap
+[2021.03.02-00.14.12:103][509]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Newmap_BuiltData.Newmap_BuiltData
+[2021.03.02-00.14.15:485][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.03.02-00.14.15:690][878]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/Newmap31E98B52485ABDF536B7618D9F64D2AF.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/Newmap.umap'
+[2021.03.02-00.14.15:749][878]LogSavePackage: Moving '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Saved/Newmap_BuiltData5AEDB0D04ADC2DB471C52AA52FC2D654.tmp' to '../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/Newmap_BuiltData.uasset'
+[2021.03.02-00.14.15:764][878]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.02-00.14.15:764][878]LogContentValidation: Display: Validating World /Game/Maps/Newmap.Newmap
+[2021.03.02-00.14.15:764][878]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Newmap_BuiltData.Newmap_BuiltData
