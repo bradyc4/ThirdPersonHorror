@@ -12741,3 +12741,40 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.28-21.18.00:737][803]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
 [2021.04.28-21.18.00:737][803]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BACEB0B75-41C8-D6C2-8947-6F99CCB5C18F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=3a1a207c462e4c7724e9a0a7da846086%7C7ffed7cc10ee4ef7a7fead125dddfb09%7C46504b02-6f81-489e-9224-23b906ffd50b&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
 [2021.04.28-21.18.00:804][803]LogModuleManager: Shutting down and abandoning module SSL (68)
+[2021.04.28-21.18.01:096][803]LogModuleManager: Shutting down and abandoning module WmfMedia (64)
+[2021.04.28-21.18.01:193][803]LogModuleManager: Shutting down and abandoning module Media (63)
+[2021.04.28-21.18.01:195][803]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2021.04.28-21.18.01:211][803]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2021.04.28-21.18.01:224][803]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2021.04.28-21.18.01:247][803]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2021.04.28-21.18.01:247][803]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2021.04.28-21.18.01:247][803]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.04.28-21.18.01:247][803]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.04.28-21.18.01:297][803]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2021.04.28-21.18.01:297][803]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.04.28-21.18.01:343][803]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.04.28-21.18.01:343][803]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.04.28-21.18.01:343][803]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.04.28-21.18.01:399][803]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.04.28-21.18.01:662][803]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.04.28-21.18.01:982][803]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.04.28-21.18.01:982][803]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.04.28-21.18.01:982][803]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.04.28-21.18.01:982][803]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.04.28-21.18.03:553][803]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.04.28-21.18.03:651][803]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.04.28-21.18.03:651][803]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.04.28-21.18.03:670][803]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.04.28-21.18.03:733][803]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.04.28-21.18.03:766][803]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.04.28-21.18.03:766][803]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.04.28-21.18.03:785][803]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.04.28-21.18.03:785][803]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.04.28-21.18.03:815][803]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.04.28-21.18.03:846][803]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.04.28-21.18.04:074][803]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.04.28-21.18.04:101][803]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.04.28-21.18.04:845][803]LogD3D11RHI: Shutdown
+[2021.04.28-21.18.04:845][803]LogD3D11RHI: CleanupD3DDevice
+[2021.04.28-21.18.06:527][803]LogExit: Exiting.
+[2021.04.28-21.18.07:448][803]Log file closed, 04/28/21 17:18:07
