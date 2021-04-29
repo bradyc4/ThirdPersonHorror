@@ -6099,3 +6099,72 @@ Script Stack (0 frames):
 [2021.04.29-07.52.38:018][269]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
 [2021.04.29-07.52.39:219][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
 [2021.04.29-07.52.41:081][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.04.29-07.53.55:614][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.04.29-07.53.56:453][469]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.53.56:454][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-07.53.59:758][469]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.53.59:758][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-07.54.04:681][469]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.04:681][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-07.54.04:746][469]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.04:746][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-07.54.05:419][469]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.04.29-07.54.05:419][469]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.05:419][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-07.54.05:641][469]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.05:641][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-07.54.05:679][469]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.05:680][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-07.54.06:638][469]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.06:638][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-07.54.06:644][469]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.06:644][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-07.54.06:853][469]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.04.29-07.54.06:853][469]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.06:853][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-07.54.07:006][469]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.07:006][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-07.54.07:010][469]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.07:011][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-07.54.07:095][469]LogSlate: Window 'Quest_001' being destroyed
+[2021.04.29-07.54.07:103][469]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.04.29-07.54.07:103][469]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.07:103][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-07.54.07:189][469]LogSlate: Window 'ThirdPersonHorror - Unreal Editor' being destroyed
+[2021.04.29-07.54.07:194][469]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.04.29-07.54.09:498][470]Cmd: QUIT_EDITOR
+[2021.04.29-07.54.09:498][470]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.04.29-07.54.09:511][470]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.04.29-07.54.10:753][470]LogExit: Preparing to exit.
+[2021.04.29-07.54.12:780][470]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:787][470]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:790][470]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:794][470]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:883][470]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:888][470]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:893][470]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:897][470]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:901][470]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:904][470]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:907][470]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:910][470]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:913][470]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:915][470]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:918][470]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:920][470]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:923][470]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:925][470]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:928][470]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:931][470]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:935][470]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:939][470]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:943][470]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:946][470]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:949][470]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:952][470]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:954][470]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:957][470]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:960][470]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:963][470]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.12:966][470]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.15:279][470]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
