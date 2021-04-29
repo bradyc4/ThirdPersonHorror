@@ -6168,3 +6168,6 @@ Script Stack (0 frames):
 [2021.04.29-07.54.12:963][470]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
 [2021.04.29-07.54.12:966][470]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
 [2021.04.29-07.54.15:279][470]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.04.29-07.54.18:768][470]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-07.54.18:768][470]LogExit: Editor shut down
+[2021.04.29-07.54.20:002][470]LogExit: Transaction tracking system shut down
