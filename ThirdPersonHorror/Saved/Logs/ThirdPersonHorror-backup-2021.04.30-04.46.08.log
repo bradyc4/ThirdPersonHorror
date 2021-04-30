@@ -1,0 +1,1939 @@
+﻿Log file open, 04/29/21 19:02:19
+LogInit: Display: Running engine for game: ThirdPersonHorror
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.435689
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/EpicGames/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.29-23.02.19:589][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.29-23.02.19:589][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.29-23.02.19:589][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Engine.ini]
+[2021.04.29-23.02.19:589][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.29-23.02.19:589][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Engine.ini]
+[2021.04.29-23.02.19:589][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Engine.ini]
+[2021.04.29-23.02.19:589][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.29-23.02.19:589][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.29-23.02.19:589][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.29-23.02.19:589][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.29-23.02.19:589][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.29-23.02.19:589][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.29-23.02.19:589][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.29-23.02.19:589][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.29-23.02.19:589][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.29-23.02.19:589][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.29-23.02.19:589][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.29-23.02.19:589][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.29-23.02.19:589][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.29-23.02.19:589][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.29-23.02.19:589][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Engine.ini]
+[2021.04.29-23.02.19:589][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.29-23.02.19:589][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.29-23.02.19:589][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.29-23.02.19:589][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.29-23.02.19:589][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.29-23.02.19:589][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.29-23.02.19:590][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.29-23.02.19:590][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.29-23.02.19:590][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.29-23.02.19:590][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.29-23.02.19:590][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.29-23.02.19:590][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.29-23.02.19:590][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.29-23.02.19:590][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Engine.ini]
+[2021.04.29-23.02.19:590][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Engine.ini]
+[2021.04.29-23.02.19:593][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.29-23.02.19:593][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.04.29-23.02.19:594][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.29-23.02.19:594][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.29-23.02.19:594][  0]LogHAL: Display: Platform has ~ 16 GB [17096658944 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.29-23.02.19:594][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.29-23.02.19:594][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.29-23.02.19:594][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.29-23.02.19:595][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Config/Windows/Engine.ini]
+[2021.04.29-23.02.19:595][  0]LogInit: Computer: DESKTOP-KDVM5Q4
+[2021.04.29-23.02.19:595][  0]LogInit: User: Alvin
+[2021.04.29-23.02.19:595][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.04.29-23.02.19:595][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.29-23.02.19:595][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.04.29-23.02.19:595][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.29-23.02.19:595][  0]LogMemory: Process Physical Memory: 117.12 MB used, 117.12 MB peak
+[2021.04.29-23.02.19:595][  0]LogMemory: Process Virtual Memory: 102.14 MB used, 102.14 MB peak
+[2021.04.29-23.02.19:595][  0]LogMemory: Physical Memory: 7524.31 MB used,  8780.33 MB free, 16304.64 MB total
+[2021.04.29-23.02.19:595][  0]LogMemory: Virtual Memory: 5188.24 MB used,  134212536.00 MB free, 134217728.00 MB total
+[2021.04.29-23.02.19:599][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.29-23.02.19:639][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.29-23.02.19:639][  0]LogInit: Using OS detected language (en-US).
+[2021.04.29-23.02.19:639][  0]LogInit: Using OS detected locale (en-US).
+[2021.04.29-23.02.19:640][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.04.29-23.02.19:770][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.29-23.02.19:791][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.29-23.02.19:791][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.29-23.02.19:895][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.29-23.02.19:895][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.29-23.02.19:895][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.29-23.02.19:971][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2021.04.29-23.02.19:971][  0]LogD3D11RHI:       4018/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.04.29-23.02.19:973][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.29-23.02.19:973][  0]LogD3D11RHI:       0/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.29-23.02.19:973][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.29-23.02.19:978][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.29-23.02.19:978][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2021.04.29-23.02.19:978][  0]LogWindows: EnumDisplayDevices:
+[2021.04.29-23.02.19:978][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2021.04.29-23.02.19:978][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:1)
+[2021.04.29-23.02.19:979][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.04.29-23.02.19:979][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.04.29-23.02.19:979][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.04.29-23.02.19:979][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2021.04.29-23.02.19:979][  0]LogD3D11RHI:   Driver Version: 466.11 (internal:27.21.14.6611, unified:466.11)
+[2021.04.29-23.02.19:979][  0]LogD3D11RHI:      Driver Date: 4-12-2021
+[2021.04.29-23.02.19:979][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2021.04.29-23.02.20:037][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.29-23.02.20:037][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.29-23.02.20:037][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.29-23.02.20:038][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061081).
+[2021.04.29-23.02.20:056][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.04.29-23.02.20:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.29-23.02.20:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.29-23.02.20:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.29-23.02.20:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.29-23.02.20:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.29-23.02.20:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.29-23.02.20:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.29-23.02.20:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.29-23.02.20:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.29-23.02.20:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.29-23.02.20:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.29-23.02.20:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.29-23.02.20:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.29-23.02.20:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.29-23.02.20:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.29-23.02.20:336][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.29-23.02.20:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.29-23.02.20:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.29-23.02.20:356][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.29-23.02.20:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.29-23.02.20:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.29-23.02.20:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.29-23.02.20:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.29-23.02.20:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.29-23.02.20:400][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.29-23.02.20:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.29-23.02.20:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.29-23.02.20:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.29-23.02.20:422][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.29-23.02.20:428][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.29-23.02.20:470][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Intermediate/Shaders/WorkingDirectory/3676/).
+[2021.04.29-23.02.20:470][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alvin/AppData/Local/Temp/UnrealShaderWorkingDir/640A195D40451AC1FE1D2BBDA11DD13B/'.
+[2021.04.29-23.02.20:471][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.04.29-23.02.20:471][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.29-23.02.20:471][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.29-23.02.21:056][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.29-23.02.21:097][  0]LogDerivedDataCache: Loaded boot cache 0.04s 76MB C:/Users/Alvin/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.04.29-23.02.21:097][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alvin/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.04.29-23.02.21:097][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.29-23.02.21:097][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.29-23.02.21:097][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.29-23.02.21:097][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.29-23.02.21:105][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.29-23.02.21:105][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.29-23.02.21:105][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.29-23.02.21:106][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alvin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.29-23.02.21:106][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.29-23.02.21:106][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.29-23.02.21:143][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.29-23.02.21:144][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.29-23.02.21:162][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2021.04.29-23.02.21:330][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.29-23.02.21:361][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.29-23.02.21:361][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.29-23.02.21:361][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.29-23.02.21:361][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.29-23.02.21:361][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.29-23.02.21:424][  0]LogNetVersion: ThirdPersonHorror 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3669474764)
+[2021.04.29-23.02.21:709][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000027A7B7F0340), frame # 0
+[2021.04.29-23.02.21:709][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027A7B724E00), frame # 0
+[2021.04.29-23.02.21:710][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027A7B779E00), frame # 0
+[2021.04.29-23.02.21:741][  0]LogPackageLocalizationCache: Processed 18 localized package path(s) for 1 prioritized culture(s) in 0.026427 seconds
+[2021.04.29-23.02.21:745][  0]LogUObjectArray: 15814 objects as part of root set at end of initial load.
+[2021.04.29-23.02.21:745][  0]LogUObjectAllocator: 3939424 out of 0 bytes used by permanent object pool.
+[2021.04.29-23.02.21:745][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.29-23.02.21:994][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.29-23.02.21:997][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.29-23.02.22:053][  0]SourceControl: Source control is disabled
+[2021.04.29-23.02.22:053][  0]SourceControl: Source control is disabled
+[2021.04.29-23.02.22:055][  0]SourceControl: Source control is disabled
+[2021.04.29-23.02.22:057][  0]SourceControl: Source control is disabled
+[2021.04.29-23.02.22:061][  0]SourceControl: Source control is disabled
+[2021.04.29-23.02.22:069][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.04.29-23.02.22:070][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.04.29-23.02.22:377][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.29-23.02.22:391][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.29-23.02.22:391][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.29-23.02.22:424][  0]LogOcInput: OculusInput pre-init called
+[2021.04.29-23.02.22:432][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.04.29-23.02.22:432][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.04.29-23.02.22:478][  0]LogEngine: Initializing Engine...
+[2021.04.29-23.02.22:478][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.29-23.02.22:479][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.04.29-23.02.22:566][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.29-23.02.22:572][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.29-23.02.22:572][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027A02C43C00), frame # 0
+[2021.04.29-23.02.22:572][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027A02CCA980), frame # 0
+[2021.04.29-23.02.22:583][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.29-23.02.22:583][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.29-23.02.22:583][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.29-23.02.22:583][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.29-23.02.22:583][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.29-23.02.22:583][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.29-23.02.22:583][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.29-23.02.22:583][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.29-23.02.22:584][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.29-23.02.22:584][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.29-23.02.22:595][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.29-23.02.22:595][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.29-23.02.22:617][  0]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.04.29-23.02.22:621][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.29-23.02.22:625][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.29-23.02.22:626][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.29-23.02.22:626][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.29-23.02.22:627][  0]LogInit: FAudioDevice initialized.
+[2021.04.29-23.02.22:627][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.29-23.02.22:689][  0]LogDerivedDataCache: Saved boot cache 0.06s 76MB C:/Users/Alvin/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.04.29-23.02.22:691][  0]LogInit: Texture streaming: Enabled
+[2021.04.29-23.02.22:702][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.29-23.02.22:702][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.29-23.02.22:705][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.29-23.02.22:747][  0]LogInit: Transaction tracking system initialized
+[2021.04.29-23.02.22:761][  0]BlueprintLog: New page: Editor Load
+[2021.04.29-23.02.22:807][  0]LocalizationService: Localization service is disabled
+[2021.04.29-23.02.22:884][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.04.29-23.02.22:884][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.04.29-23.02.22:932][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.04.29-23.02.22:932][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.29-23.02.23:041][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/' took 0.01s
+[2021.04.29-23.02.23:041][  0]SourceControl: Source control is disabled
+[2021.04.29-23.02.23:041][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.626
+[2021.04.29-23.02.23:041][  0]Cmd: MAP LOAD FILE="C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.29-23.02.23:041][  0]LightingResults: New page: Lighting Build
+[2021.04.29-23.02.23:042][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-23.02.23:042][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-23.02.23:042][  0]MapCheck: New page: Map Check
+[2021.04.29-23.02.23:042][  0]LightingResults: New page: Lighting Build
+[2021.04.29-23.02.23:052][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027A02C43C00), frame # 0
+[2021.04.29-23.02.23:052][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027A02CCA980), frame # 0
+[2021.04.29-23.02.23:053][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.04.29-23.02.23:166][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2021.04.29-23.02.23:184][  0]LogLinker: Warning: Asset 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/MSPresets/MSTextures/Albedo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.04.29-23.02.23:865][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_ImpactBody_Cue.Shotgun_ImpactBody_Cue:SoundCueGraph_55.SoundCueGraphNode_144' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2021.04.29-23.02.23:865][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_ImpactBody_Cue.Shotgun_ImpactBody_Cue:SoundCueGraph_55.SoundCueGraphNode_145' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2021.04.29-23.02.23:865][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_ImpactBody_Cue.Shotgun_ImpactBody_Cue:SoundCueGraph_55.SoundCueGraphNode_146' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2021.04.29-23.02.23:865][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_ImpactBody_Cue.Shotgun_ImpactBody_Cue:SoundCueGraph_55.SoundCueGraphNode_147' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2021.04.29-23.02.23:865][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_ImpactBody_Cue.Shotgun_ImpactBody_Cue:SoundCueGraph_55.SoundCueGraphNode_148' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2021.04.29-23.02.23:865][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_ImpactBody_Cue.Shotgun_ImpactBody_Cue:SoundCueGraph_55.SoundCueGraphNode_149' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2021.04.29-23.02.23:865][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_ImpactBody_Cue.Shotgun_ImpactBody_Cue:SoundCueGraph_55.SoundCueGraphNode_Root_55' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2021.04.29-23.02.24:149][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.29-23.02.24:149][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027A0A548C00), frame # 0
+[2021.04.29-23.02.24:149][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027A0A4187C0), frame # 0
+[2021.04.29-23.02.24:164][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.29-23.02.24:181][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.04.29-23.02.24:182][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.29-23.02.24:182][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.174ms to complete.
+[2021.04.29-23.02.24:182][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.141
+[2021.04.29-23.02.24:184][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.769
+[2021.04.29-23.02.24:305][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-23.02.24:310][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-23.02.24:315][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-23.02.24:320][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-23.02.24:325][  0]LogCollectionManager: Loaded 0 collections in 0.000502 seconds
+[2021.04.29-23.02.24:344][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Collections/' took 0.00s
+[2021.04.29-23.02.24:344][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Developers/Alvin/Collections/' took 0.00s
+[2021.04.29-23.02.24:344][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Collections/' took 0.00s
+[2021.04.29-23.02.24:344][  0]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 3419 classes and 814 folders.
+[2021.04.29-23.02.24:367][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.29-23.02.24:844][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.29-23.02.24:845][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.04.29-23.02.24:867][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.29-23.02.24:869][  0]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.29-23.02.24:882][  0]LogSlate: Took 0.009606 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.29-23.02.24:947][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.04.29-23.02.25:005][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.29-23.02.25:005][  0]LogLoad: (Engine Initialization) Total time: 6.59 seconds
+[2021.04.29-23.02.25:005][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.29-23.02.25:040][  0]LogAssetRegistry: Asset discovery search completed in 3.8799 seconds
+[2021.04.29-23.02.25:043][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.04.29-23.02.25:044][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.29-23.02.25:130][  0]LogSlate: Took 0.026233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.29-23.02.29:883][535]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.29-23.02.30:669][535]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/FinalPrison.FinalPrison
+[2021.04.29-23.02.30:687][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.04.29-23.02.30:689][535]Cmd: MAP LOAD FILE="C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.29-23.02.30:689][535]LightingResults: New page: Lighting Build
+[2021.04.29-23.02.30:689][535]LoadErrors: New page: Loading map: FinalPrison.umap
+[2021.04.29-23.02.30:750][535]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-23.02.30:750][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-23.02.30:750][535]MapCheck: New page: Map Check
+[2021.04.29-23.02.30:750][535]LightingResults: New page: Lighting Build
+[2021.04.29-23.02.30:761][535]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027A0A548C00), frame # 535
+[2021.04.29-23.02.30:761][535]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027A0A4187C0), frame # 535
+[2021.04.29-23.02.30:762][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.04.29-23.02.31:096][535]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.29-23.02.31:096][535]LogAIModule: Creating AISystem for world FinalPrison
+[2021.04.29-23.02.31:096][535]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027A83A82E00), frame # 535
+[2021.04.29-23.02.31:096][535]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027A29B5A840), frame # 535
+[2021.04.29-23.02.31:135][535]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.04.29-23.02.31:159][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.04.29-23.02.31:185][535]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.29-23.02.31:185][535]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.119ms to complete.
+[2021.04.29-23.02.31:186][535]LogFileHelpers: Loading map 'FinalPrison' took 0.496
+[2021.04.29-23.02.31:233][535]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.04.29-23.02.32:414][535]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.180 s
+[2021.04.29-23.02.32:414][535]LogOutputDevice: Error: === Handled ensure: ===
+[2021.04.29-23.02.32:414][535]LogOutputDevice: Error: 
+[2021.04.29-23.02.32:414][535]LogOutputDevice: Error: Ensure condition failed: FMath::IsFinite(TexelFactor) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Classes\Engine/TextureStreamingTypes.h] [Line: 96]
+[2021.04.29-23.02.32:414][535]LogOutputDevice: Error: 
+[2021.04.29-23.02.32:414][535]LogOutputDevice: Error: Stack: 
+[2021.04.29-23.02.32:414][535]LogOutputDevice: Error: [Callstack] 0x00007fff144c8558 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.29-23.02.32:414][535]LogOutputDevice: Error: [Callstack] 0x00007fff13049ab4 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.29-23.02.32:414][535]LogOutputDevice: Error: [Callstack] 0x00007fff13c9c4e6 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.29-23.02.32:414][535]LogOutputDevice: Error: [Callstack] 0x00007fff13c44431 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.29-23.02.32:414][535]LogOutputDevice: Error: [Callstack] 0x00007fff13c44bb4 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.29-23.02.32:414][535]LogOutputDevice: Error: [Callstack] 0x00007fff13c45113 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.29-23.02.32:417][535]LogOutputDevice: Error: [Callstack] 0x00007fff13c6292b UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.29-23.02.32:417][535]LogOutputDevice: Error: [Callstack] 0x00007fff13180648 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.29-23.02.32:417][535]LogOutputDevice: Error: [Callstack] 0x00007fff1317c46f UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.29-23.02.32:417][535]LogOutputDevice: Error: [Callstack] 0x00007fff1e9bb7e4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.29-23.02.32:417][535]LogOutputDevice: Error: [Callstack] 0x00007fff1f2937e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.29-23.02.32:417][535]LogOutputDevice: Error: [Callstack] 0x00007ff7b5197800 UE4Editor.exe!UnknownFunction []
+[2021.04.29-23.02.32:417][535]LogOutputDevice: Error: [Callstack] 0x00007ff7b51aba7c UE4Editor.exe!UnknownFunction []
+[2021.04.29-23.02.32:417][535]LogOutputDevice: Error: [Callstack] 0x00007ff7b51abb5a UE4Editor.exe!UnknownFunction []
+[2021.04.29-23.02.32:417][535]LogOutputDevice: Error: [Callstack] 0x00007ff7b51be31d UE4Editor.exe!UnknownFunction []
+[2021.04.29-23.02.32:417][535]LogOutputDevice: Error: [Callstack] 0x00007ff7b51c145a UE4Editor.exe!UnknownFunction []
+[2021.04.29-23.02.32:417][535]LogOutputDevice: Error: [Callstack] 0x00007fff92417034 KERNEL32.DLL!UnknownFunction []
+[2021.04.29-23.02.32:417][535]LogOutputDevice: Error: [Callstack] 0x00007fff93ee2651 ntdll.dll!UnknownFunction []
+[2021.04.29-23.02.32:417][535]LogOutputDevice: Error: 
+[2021.04.29-23.02.32:421][535]LogStats:                SubmitErrorReport -  0.000 s
+[2021.04.29-23.02.35:829][535]LogStats:                    SendNewReport -  3.407 s
+[2021.04.29-23.02.35:829][535]LogStats:             FDebug::EnsureFailed -  4.595 s
+[2021.04.29-23.02.35:830][535]LogTemp: Resetting audio stream to device id 
+[2021.04.29-23.02.35:842][535]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.29-23.02.35:842][535]LogAudioMixer: Display: 1: FrontRight
+[2021.04.29-23.02.51:128][293]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.29-23.04.13:462][  1]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.04.29-23.04.38:406][968]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.29-23.05.04:872][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.04.29-23.05.05:113][137]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison84FCA5F44066FAF97B7FE5BC57FFFE26.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison.umap'
+[2021.04.29-23.05.05:144][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FinalPrison_BuiltData" FILE="C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset" SILENT=true
+[2021.04.29-23.05.05:501][137]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison_BuiltData627CDDB34B1820E34DFD90AE4975802B.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset'
+[2021.04.29-23.05.05:511][137]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.29-23.05.05:511][137]LogContentValidation: Display: Validating World /Game/Maps/FinalPrison.FinalPrison
+[2021.04.29-23.05.05:511][137]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/FinalPrison_BuiltData.FinalPrison_BuiltData
+[2021.04.29-23.08.23:625][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.04.29-23.08.23:863][888]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison36B657C84A3DB49BEA0B0DA8EE0DCB11.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison.umap'
+[2021.04.29-23.08.23:896][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FinalPrison_BuiltData" FILE="C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset" SILENT=true
+[2021.04.29-23.08.24:117][888]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison_BuiltDataCECEBFD541C437A1963992B80910245B.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset'
+[2021.04.29-23.08.24:129][888]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.29-23.08.24:129][888]LogContentValidation: Display: Validating World /Game/Maps/FinalPrison.FinalPrison
+[2021.04.29-23.08.24:129][888]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/FinalPrison_BuiltData.FinalPrison_BuiltData
+[2021.04.29-23.08.37:396][437]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.29-23.08.46:022][423]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.29-23.09.04:256][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.04.29-23.09.04:484][605]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrisonC958199A477599F11F5DB3970C375284.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison.umap'
+[2021.04.29-23.09.04:512][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FinalPrison_BuiltData" FILE="C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset" SILENT=true
+[2021.04.29-23.09.04:725][605]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison_BuiltData61409D144CD6243D1C1B169D2BF0446B.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset'
+[2021.04.29-23.09.04:736][605]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.29-23.09.04:736][605]LogContentValidation: Display: Validating World /Game/Maps/FinalPrison.FinalPrison
+[2021.04.29-23.09.04:736][605]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/FinalPrison_BuiltData.FinalPrison_BuiltData
+[2021.04.29-23.11.18:588][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.04.29-23.11.18:819][627]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrisonED8E56004EDB4B42C3BC94BD9402B927.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison.umap'
+[2021.04.29-23.11.18:847][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FinalPrison_BuiltData" FILE="C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset" SILENT=true
+[2021.04.29-23.11.19:073][627]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison_BuiltData217838FA44E33BA4223BE7A970A16156.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset'
+[2021.04.29-23.11.19:085][627]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.29-23.11.19:085][627]LogContentValidation: Display: Validating World /Game/Maps/FinalPrison.FinalPrison
+[2021.04.29-23.11.19:085][627]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/FinalPrison_BuiltData.FinalPrison_BuiltData
+[2021.04.29-23.19.15:475][624]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.29-23.20.39:287][545]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.29-23.20.50:061][819]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.29-23.20.58:611][825]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.29-23.21.25:357][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.04.29-23.21.25:601][  0]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison_Auto16B35315A4BC671DC747334A681275EEB.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Autosaves/Game/Maps/FinalPrison_Auto1.umap'
+[2021.04.29-23.21.25:604][  0]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FinalPrison' took 0.257
+[2021.04.29-23.21.25:604][  0]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.257
+[2021.04.29-23.21.49:068][769]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.29-23.21.56:159][615]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.29-23.31.25:949][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.04.29-23.31.26:188][805]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison_Auto266E9088344177750EC8F9F9FE96BF9FD.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Autosaves/Game/Maps/FinalPrison_Auto2.umap'
+[2021.04.29-23.31.26:191][805]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FinalPrison' took 0.253
+[2021.04.29-23.31.26:191][805]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.253
+[2021.04.29-23.37.37:866][796]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.29-23.37.50:188][227]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.29-23.40.14:902][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2021.04.29-23.40.28:545][ 61]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2021.04.29-23.40.30:047][229]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2021.04.29-23.42.03:078][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.04.29-23.42.03:316][310]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison_Auto39612F5584BC30ACDE287C8AAB32CFD12.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Autosaves/Game/Maps/FinalPrison_Auto3.umap'
+[2021.04.29-23.42.03:319][310]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FinalPrison' took 0.251
+[2021.04.29-23.42.03:319][310]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.251
+[2021.04.29-23.42.43:354][ 81]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.29-23.42.45:511][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x306)
+[2021.04.29-23.42.57:501][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x306)
+[2021.04.29-23.52.03:557][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.04.29-23.52.03:800][ 82]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison_Auto4F680CFEF4FA257D4D20B4C8E3EF01419.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Autosaves/Game/Maps/FinalPrison_Auto4.umap'
+[2021.04.29-23.52.03:802][ 82]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FinalPrison' took 0.255
+[2021.04.29-23.52.03:802][ 82]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.255
+[2021.04.29-23.57.48:703][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x306)
+[2021.04.30-00.00.21:628][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x306)
+[2021.04.30-00.00.24:011][300]Cmd: DELETE
+[2021.04.30-00.00.24:011][300]Cmd: ACTOR DELETE
+[2021.04.30-00.00.24:284][300]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.30-00.00.24:294][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.04.30-00.00.24:297][300]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2021.04.30-00.00.26:845][601]Cmd: DELETE
+[2021.04.30-00.00.26:845][601]Cmd: ACTOR DELETE
+[2021.04.30-00.00.26:856][601]LogEditorActor: Deleted Actor: Brush
+[2021.04.30-00.00.26:866][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.04.30-00.00.26:875][601]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.04.30-00.00.53:305][197]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.30-00.01.59:463][ 25]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.30-00.04.02:206][489]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-00.04.07:338][ 99]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-00.04.20:066][542]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-00.04.29:035][575]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-00.05.15:616][134]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.30-00.06.20:287][795]Cmd: TRANSACTION UNDO
+[2021.04.30-00.06.20:287][795]LogEditorTransaction: Undo Scale Actors
+[2021.04.30-00.07.20:159][322]Cmd: DELETE
+[2021.04.30-00.07.20:159][322]Cmd: ACTOR DELETE
+[2021.04.30-00.07.20:172][322]LogEditorActor: Deleted Actor: Brush
+[2021.04.30-00.07.20:187][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.04.30-00.07.20:198][322]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2021.04.30-00.07.21:733][505]Cmd: TRANSACTION UNDO
+[2021.04.30-00.07.21:733][505]LogEditorTransaction: Undo Delete Actors
+[2021.04.30-00.07.22:092][523]Cmd: TRANSACTION UNDO
+[2021.04.30-00.07.22:092][523]LogEditorTransaction: Undo Select Brush Surface
+[2021.04.30-00.07.22:765][593]Cmd: TRANSACTION UNDO
+[2021.04.30-00.07.22:765][593]LogEditorTransaction: Undo Move Actors
+[2021.04.30-00.07.23:561][683]Cmd: TRANSACTION UNDO
+[2021.04.30-00.07.23:561][683]LogEditorTransaction: Undo Move Actors
+[2021.04.30-00.07.24:109][745]Cmd: TRANSACTION UNDO
+[2021.04.30-00.07.24:109][745]LogEditorTransaction: Undo Set Scale
+[2021.04.30-00.07.44:382][ 96]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.30-00.08.30:307][482]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-00.08.44:075][ 67]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-00.08.50:431][793]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-00.09.46:084][425]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.30-00.11.08:098][ 93]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-00.11.15:946][  3]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-00.13.31:945][258]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.30-00.15.24:498][625]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-00.15.31:593][423]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-00.16.49:382][617]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.30-00.17.38:842][422]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-00.17.48:175][535]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-00.18.27:493][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.04.30-00.18.27:743][650]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison_Auto5A87047FE470E24E6821F53A4E0822C33.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Autosaves/Game/Maps/FinalPrison_Auto5.umap'
+[2021.04.30-00.18.27:745][650]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FinalPrison' took 0.274
+[2021.04.30-00.18.27:745][650]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.274
+[2021.04.30-00.20.36:950][ 93]LogEditorViewport: Clicking on Actor (LMB): Prison_C (Prison)
+[2021.04.30-00.20.39:533][399]LogEditorViewport: Clicking on Actor (LMB): Prison_C (Prison)
+[2021.04.30-00.21.32:529][449]Cmd: DELETE
+[2021.04.30-00.21.32:529][449]Cmd: ACTOR DELETE
+[2021.04.30-00.21.32:542][449]LogEditorActor: Deleted Actor: window-bars_C
+[2021.04.30-00.21.32:566][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.04.30-00.21.32:568][449]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2021.04.30-00.24.28:696][327]LogEditorViewport: Clicking on Actor (LMB): Prison_C (Prison)
+[2021.04.30-00.25.09:171][  9]LogEditorViewport: Clicking on Actor (LMB): bars_C (bars5)
+[2021.04.30-00.25.15:710][782]LogEditorViewport: Clicking on Actor (LMB): SlidingDoor_C (SlidingDoor2)
+[2021.04.30-00.28.43:838][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.04.30-00.28.44:091][720]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison_Auto6A79B25194DE7550AA8E6B293AD8F4D3F.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Autosaves/Game/Maps/FinalPrison_Auto6.umap'
+[2021.04.30-00.28.44:093][720]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FinalPrison' took 0.295
+[2021.04.30-00.28.44:093][720]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.295
+[2021.04.30-00.33.19:048][407]LogEditorViewport: Clicking on Actor (LMB): bars_C (bars5)
+[2021.04.30-00.33.24:875][ 94]LogEditorViewport: Clicking on Actor (LMB): SlidingDoor_C (SlidingDoor2)
+[2021.04.30-00.34.26:745][480]LogEditorViewport: Clicking on Actor (LMB): Prison_C (Prison)
+[2021.04.30-00.34.27:983][602]LogEditorViewport: Clicking on Actor (LMB): Prison_C (Prison)
+[2021.04.30-00.35.03:306][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.04.30-00.35.03:563][781]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrisonE511030747645218015281948A3C7A06.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison.umap'
+[2021.04.30-00.35.03:615][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FinalPrison_BuiltData" FILE="C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset" SILENT=true
+[2021.04.30-00.35.03:852][781]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison_BuiltDataA59075214983225DD7734B90C00D5D01.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset'
+[2021.04.30-00.35.03:866][781]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.30-00.35.03:866][781]LogContentValidation: Display: Validating World /Game/Maps/FinalPrison.FinalPrison
+[2021.04.30-00.35.03:867][781]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/FinalPrison_BuiltData.FinalPrison_BuiltData
+[2021.04.30-00.36.12:661][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.04.30-00.36.12:909][ 18]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrisonEBCDC978433BD487D52D02AAED0F6E07.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison.umap'
+[2021.04.30-00.36.12:944][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FinalPrison_BuiltData" FILE="C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset" SILENT=true
+[2021.04.30-00.36.13:165][ 18]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison_BuiltData1F30C05744D5973BFB4454A56369140D.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset'
+[2021.04.30-00.36.13:174][ 18]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.30-00.36.13:174][ 18]LogContentValidation: Display: Validating World /Game/Maps/FinalPrison.FinalPrison
+[2021.04.30-00.36.13:174][ 18]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/FinalPrison_BuiltData.FinalPrison_BuiltData
+[2021.04.30-00.36.23:869][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.04.30-00.36.24:116][931]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrisonC95A12C0449D969C198B7F90C71FD3A9.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison.umap'
+[2021.04.30-00.36.24:144][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FinalPrison_BuiltData" FILE="C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset" SILENT=true
+[2021.04.30-00.36.24:367][931]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison_BuiltDataC75C94C94591836F82E7ADA58F4EB09A.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset'
+[2021.04.30-00.36.24:377][931]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.30-00.36.24:377][931]LogContentValidation: Display: Validating World /Game/Maps/FinalPrison.FinalPrison
+[2021.04.30-00.36.24:377][931]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/FinalPrison_BuiltData.FinalPrison_BuiltData
+[2021.04.30-00.36.34:277][ 92]LogEditorViewport: Clicking on Actor (LMB): Prison_C (Prison)
+[2021.04.30-00.36.34:948][170]LogEditorViewport: Clicking on Actor (LMB): Prison_C (Prison)
+[2021.04.30-00.37.23:458][794]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.30-00.37.23:998][794]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 125 classes and 0 folders.
+[2021.04.30-00.37.25:267][794]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.30-00.37.25:499][795]LogSlate: Took 0.045523 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.30-00.39.20:006][830]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.30-00.39.20:221][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.04.30-00.39.20:506][830]LogSlate: Took 0.016869 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.30-00.39.21:112][871]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/ThirdPersonCharacter596E2F23481B21C6C240A4BB8E4A9F39.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.04.30-00.39.21:126][871]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.04.30-00.39.21:126][871]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.30-00.39.27:667][491]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.04.30-00.39.27:683][491]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-00.39.27:683][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.30-00.39.29:541][704]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.30-00.39.29:559][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.30-00.39.29:559][704]PIE: New page: PIE session: FinalPrison (Apr 29, 2021, 4:39:29 PM)
+[2021.04.30-00.39.29:561][704]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.30-00.39.29:562][704]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.30-00.39.29:562][704]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FinalPrison
+[2021.04.30-00.39.29:614][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052363s)
+[2021.04.30-00.39.29:615][704]LogAIModule: Creating AISystem for world FinalPrison
+[2021.04.30-00.39.29:615][704]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027AA153B600), frame # 466704
+[2021.04.30-00.39.29:615][704]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027AC010C2C0), frame # 466704
+[2021.04.30-00.39.29:615][704]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2021.04.30-00.39.29:615][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FinalPrison.FinalPrison to /Game/Maps/UEDPIE_0_FinalPrison.FinalPrison (0.053502s)
+[2021.04.30-00.39.29:637][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.04.30-00.39.29:639][704]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.30-00.39.29:639][704]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.30-00.39.29:639][704]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.30-00.39.29:639][704]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.30-00.39.29:639][704]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.30-00.39.29:639][704]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.30-00.39.29:639][704]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.30-00.39.29:639][704]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.30-00.39.29:640][704]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.30-00.39.29:640][704]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.30-00.39.29:642][704]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.30-00.39.29:642][704]LogAudioMixer: Display: 1: FrontRight
+[2021.04.30-00.39.29:654][704]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.04.30-00.39.29:655][704]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.30-00.39.29:655][704]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.30-00.39.29:655][704]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.30-00.39.29:655][704]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.30-00.39.29:663][704]LogInit: FAudioDevice initialized.
+[2021.04.30-00.39.29:681][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.30-00.39.29:681][704]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.30-00.39.29:707][704]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FinalPrison.FinalPrison up for play (max tick rate 0) at 2021.04.29-20.39.29
+[2021.04.30-00.39.29:708][704]LogWorld: Bringing up level for play took: 0.025899
+[2021.04.30-00.39.29:750][704]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.04.30-00.39.29:767][704]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.04.30-00.39.29:783][704]PIE: Server logged in
+[2021.04.30-00.39.29:785][704]PIE: Play in editor total start time 0.229 seconds.
+[2021.04.30-00.39.30:124][706]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2021.04.30-00.39.30:557][733]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] true
+[2021.04.30-00.39.31:057][768]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] false
+[2021.04.30-00.39.44:900][811]LogScript: Warning: Script Msg: Attempted to set an invalid index on array KeyArray [0/0]!
+[2021.04.30-00.39.46:198][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.30-00.39.46:198][931]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FinalPrison
+[2021.04.30-00.39.46:199][931]LogSlate: Window 'ThirdPersonHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.04.30-00.39.46:202][931]LogWorld: UWorld::CleanupWorld for FinalPrison, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-00.39.46:213][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.30-00.39.46:224][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.30-00.39.46:228][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.30-00.39.46:304][931]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027AA153B600), frame # 467931
+[2021.04.30-00.39.46:304][931]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027AC010C2C0), frame # 467931
+[2021.04.30-00.39.46:308][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.04.30-00.39.46:339][932]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.04.30-00.39.47:573][ 65]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.30-00.40.12:435][805]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.30-00.40.12:588][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.04.30-00.40.13:312][846]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/ThirdPersonCharacter2D63B3B249D2608AD51A1A937827B849.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.04.30-00.40.13:324][846]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.04.30-00.40.13:325][846]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.30-00.40.26:727][366]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.04.30-00.40.26:732][366]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-00.40.26:732][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.30-00.40.27:795][482]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.30-00.40.27:812][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.30-00.40.27:812][482]PIE: New page: PIE session: FinalPrison (Apr 29, 2021, 4:40:27 PM)
+[2021.04.30-00.40.27:812][482]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FinalPrison
+[2021.04.30-00.40.27:862][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050364s)
+[2021.04.30-00.40.27:863][482]LogAIModule: Creating AISystem for world FinalPrison
+[2021.04.30-00.40.27:863][482]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027B42407A00), frame # 472482
+[2021.04.30-00.40.27:863][482]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027A8A7C7B00), frame # 472482
+[2021.04.30-00.40.27:863][482]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2021.04.30-00.40.27:863][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FinalPrison.FinalPrison to /Game/Maps/UEDPIE_0_FinalPrison.FinalPrison (0.051301s)
+[2021.04.30-00.40.27:885][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.04.30-00.40.27:887][482]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.30-00.40.27:887][482]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.30-00.40.27:887][482]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.30-00.40.27:887][482]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.30-00.40.27:887][482]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.30-00.40.27:887][482]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.30-00.40.27:887][482]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.30-00.40.27:887][482]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.30-00.40.27:887][482]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.30-00.40.27:887][482]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.30-00.40.27:890][482]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.30-00.40.27:890][482]LogAudioMixer: Display: 1: FrontRight
+[2021.04.30-00.40.27:900][482]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.04.30-00.40.27:900][482]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.30-00.40.27:900][482]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.30-00.40.27:900][482]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.30-00.40.27:900][482]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.30-00.40.27:909][482]LogInit: FAudioDevice initialized.
+[2021.04.30-00.40.27:932][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.30-00.40.27:932][482]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.30-00.40.27:956][482]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FinalPrison.FinalPrison up for play (max tick rate 0) at 2021.04.29-20.40.27
+[2021.04.30-00.40.27:957][482]LogWorld: Bringing up level for play took: 0.025344
+[2021.04.30-00.40.27:996][482]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.04.30-00.40.28:008][482]PIE: Server logged in
+[2021.04.30-00.40.28:009][482]PIE: Play in editor total start time 0.201 seconds.
+[2021.04.30-00.40.29:432][582]LogBlueprintUserMessages: Warning: PauseTimer passed a bad function (Fire Gun) or object (None)
+[2021.04.30-00.40.30:667][671]LogScript: Warning: Script Msg: Attempted to set an invalid index on array KeyArray [0/0]!
+[2021.04.30-00.40.44:747][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.30-00.40.44:748][810]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FinalPrison
+[2021.04.30-00.40.44:748][810]LogSlate: Window 'ThirdPersonHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.04.30-00.40.44:751][810]LogWorld: UWorld::CleanupWorld for FinalPrison, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-00.40.44:762][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.30-00.40.44:767][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.30-00.40.44:772][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.30-00.40.44:803][810]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027A8A7C7B00), frame # 473810
+[2021.04.30-00.40.44:803][810]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027B42407A00), frame # 473810
+[2021.04.30-00.40.44:806][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.04.30-00.40.44:839][811]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.04.30-00.40.47:075][ 60]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.30-00.42.15:366][738]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.04.30-00.42.15:371][738]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-00.42.15:371][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.30-00.42.35:064][ 92]LogEditorViewport: Clicking on Actor (LMB): bars_C (bars5)
+[2021.04.30-00.42.39:291][560]LogEditorViewport: Clicking on Actor (LMB): SlidingDoor_C (SlidingDoor2)
+[2021.04.30-00.42.48:092][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.04.30-00.42.48:344][605]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrisonBAFD53724CA99F0F15002C975C23500A.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison.umap'
+[2021.04.30-00.42.48:375][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FinalPrison_BuiltData" FILE="C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset" SILENT=true
+[2021.04.30-00.42.48:603][605]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison_BuiltDataDFDEAE974ED870F2F79231B73C567A90.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset'
+[2021.04.30-00.42.48:620][605]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.30-00.42.48:620][605]LogContentValidation: Display: Validating World /Game/Maps/FinalPrison.FinalPrison
+[2021.04.30-00.42.48:620][605]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/FinalPrison_BuiltData.FinalPrison_BuiltData
+[2021.04.30-00.43.21:218][368]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.30-00.44.37:569][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.04.30-00.44.37:819][410]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison36E0E81942AAD8EC44133F96F7D2B258.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison.umap'
+[2021.04.30-00.44.37:852][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FinalPrison_BuiltData" FILE="C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset" SILENT=true
+[2021.04.30-00.44.38:065][410]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison_BuiltData9D8C252D419D51EA4A04ACBBB106E7AE.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset'
+[2021.04.30-00.44.38:078][410]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.30-00.44.38:078][410]LogContentValidation: Display: Validating World /Game/Maps/FinalPrison.FinalPrison
+[2021.04.30-00.44.38:078][410]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/FinalPrison_BuiltData.FinalPrison_BuiltData
+[2021.04.30-00.44.44:141][102]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.30-00.44.44:158][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.30-00.44.44:158][102]PIE: New page: PIE session: FinalPrison (Apr 29, 2021, 4:44:44 PM)
+[2021.04.30-00.44.44:159][102]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FinalPrison
+[2021.04.30-00.44.44:212][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053371s)
+[2021.04.30-00.44.44:213][102]LogAIModule: Creating AISystem for world FinalPrison
+[2021.04.30-00.44.44:213][102]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027A89E32600), frame # 501102
+[2021.04.30-00.44.44:213][102]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027B121CCCC0), frame # 501102
+[2021.04.30-00.44.44:213][102]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2021.04.30-00.44.44:213][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FinalPrison.FinalPrison to /Game/Maps/UEDPIE_0_FinalPrison.FinalPrison (0.054350s)
+[2021.04.30-00.44.44:231][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.04.30-00.44.44:234][102]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.30-00.44.44:234][102]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.30-00.44.44:234][102]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.30-00.44.44:234][102]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.30-00.44.44:234][102]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.30-00.44.44:234][102]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.30-00.44.44:234][102]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.30-00.44.44:234][102]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.30-00.44.44:234][102]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.30-00.44.44:234][102]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.30-00.44.44:238][102]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.30-00.44.44:238][102]LogAudioMixer: Display: 1: FrontRight
+[2021.04.30-00.44.44:249][102]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.04.30-00.44.44:249][102]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.30-00.44.44:249][102]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.30-00.44.44:249][102]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.30-00.44.44:250][102]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.30-00.44.44:258][102]LogInit: FAudioDevice initialized.
+[2021.04.30-00.44.44:274][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.30-00.44.44:274][102]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.30-00.44.44:301][102]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FinalPrison.FinalPrison up for play (max tick rate 0) at 2021.04.29-20.44.44
+[2021.04.30-00.44.44:301][102]LogWorld: Bringing up level for play took: 0.028147
+[2021.04.30-00.44.44:344][102]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.04.30-00.44.44:356][102]PIE: Server logged in
+[2021.04.30-00.44.44:357][102]PIE: Play in editor total start time 0.203 seconds.
+[2021.04.30-00.44.44:934][131]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] true
+[2021.04.30-00.44.45:400][164]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] false
+[2021.04.30-00.44.59:107][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.30-00.44.59:107][133]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FinalPrison
+[2021.04.30-00.44.59:108][133]LogSlate: Window 'ThirdPersonHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.04.30-00.44.59:110][133]LogWorld: UWorld::CleanupWorld for FinalPrison, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-00.44.59:121][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.30-00.44.59:127][133]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.30-00.44.59:131][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.30-00.44.59:166][133]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027B121CCCC0), frame # 502133
+[2021.04.30-00.44.59:166][133]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027A89E32600), frame # 502133
+[2021.04.30-00.44.59:168][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.04.30-00.44.59:198][134]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.04.30-00.46.15:723][819]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.30-00.46.45:486][816]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.30-00.46.45:625][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.04.30-00.46.46:405][857]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/ThirdPersonCharacter5CC4E2DC4989DA8D358661BB19353320.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.04.30-00.46.46:418][857]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.04.30-00.46.46:418][857]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.30-00.46.48:766][ 76]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.04.30-00.46.48:770][ 76]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-00.46.48:770][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.30-00.46.50:259][244]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.30-00.46.50:276][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.30-00.46.50:276][244]PIE: New page: PIE session: FinalPrison (Apr 29, 2021, 4:46:50 PM)
+[2021.04.30-00.46.50:276][244]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FinalPrison
+[2021.04.30-00.46.50:328][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051433s)
+[2021.04.30-00.46.50:329][244]LogAIModule: Creating AISystem for world FinalPrison
+[2021.04.30-00.46.50:329][244]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027B4174CC00), frame # 510244
+[2021.04.30-00.46.50:329][244]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027ABE71F880), frame # 510244
+[2021.04.30-00.46.50:329][244]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2021.04.30-00.46.50:329][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FinalPrison.FinalPrison to /Game/Maps/UEDPIE_0_FinalPrison.FinalPrison (0.052457s)
+[2021.04.30-00.46.50:351][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.04.30-00.46.50:354][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.30-00.46.50:354][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.30-00.46.50:354][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.30-00.46.50:354][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.30-00.46.50:354][244]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.30-00.46.50:354][244]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.30-00.46.50:354][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.30-00.46.50:354][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.30-00.46.50:354][244]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.30-00.46.50:354][244]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.30-00.46.50:357][244]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.30-00.46.50:357][244]LogAudioMixer: Display: 1: FrontRight
+[2021.04.30-00.46.50:368][244]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.04.30-00.46.50:369][244]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.30-00.46.50:369][244]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.30-00.46.50:369][244]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.30-00.46.50:369][244]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.30-00.46.50:377][244]LogInit: FAudioDevice initialized.
+[2021.04.30-00.46.50:400][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.30-00.46.50:400][244]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.30-00.46.50:427][244]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FinalPrison.FinalPrison up for play (max tick rate 0) at 2021.04.29-20.46.50
+[2021.04.30-00.46.50:428][244]LogWorld: Bringing up level for play took: 0.027079
+[2021.04.30-00.46.50:467][244]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.04.30-00.46.50:478][244]PIE: Server logged in
+[2021.04.30-00.46.50:479][244]PIE: Play in editor total start time 0.206 seconds.
+[2021.04.30-00.46.51:230][290]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] true
+[2021.04.30-00.46.51:308][296]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] false
+[2021.04.30-00.46.59:836][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.30-00.46.59:836][955]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FinalPrison
+[2021.04.30-00.46.59:837][955]LogSlate: Window 'ThirdPersonHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.04.30-00.46.59:839][955]LogWorld: UWorld::CleanupWorld for FinalPrison, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-00.46.59:850][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.30-00.46.59:858][955]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.30-00.46.59:862][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.30-00.46.59:892][955]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027ABE71F880), frame # 510955
+[2021.04.30-00.46.59:892][955]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027B4174CC00), frame # 510955
+[2021.04.30-00.46.59:896][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.04.30-00.46.59:923][956]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.04.30-00.47.01:456][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.04.30-00.47.01:696][136]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison44BA628B4BBBF71A4B8F99BFC68ACD23.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison.umap'
+[2021.04.30-00.47.01:726][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FinalPrison_BuiltData" FILE="C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset" SILENT=true
+[2021.04.30-00.47.01:944][136]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison_BuiltData7A324E3D49B806852829A99FFB140C7B.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset'
+[2021.04.30-00.47.01:957][136]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.30-00.47.01:957][136]LogContentValidation: Display: Validating World /Game/Maps/FinalPrison.FinalPrison
+[2021.04.30-00.47.01:957][136]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/FinalPrison_BuiltData.FinalPrison_BuiltData
+[2021.04.30-00.47.42:176][957]Cmd: EDIT COPY
+[2021.04.30-00.47.48:913][748]Cmd: EDIT PASTE
+[2021.04.30-00.47.52:380][146]Cmd: TRANSACTION UNDO
+[2021.04.30-00.47.52:380][146]LogEditorTransaction: Undo Paste
+[2021.04.30-00.48.17:614][ 53]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-00.48.20:543][398]Cmd: EDIT COPY
+[2021.04.30-00.48.21:332][492]Cmd: EDIT PASTE
+[2021.04.30-00.48.36:983][286]Cmd: EDIT PASTE
+[2021.04.30-00.50.18:751][715]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.30-00.50.18:768][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.30-00.50.18:768][715]PIE: New page: PIE session: FinalPrison (Apr 29, 2021, 4:50:18 PM)
+[2021.04.30-00.50.18:769][715]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FinalPrison
+[2021.04.30-00.50.18:822][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053416s)
+[2021.04.30-00.50.18:823][715]LogAIModule: Creating AISystem for world FinalPrison
+[2021.04.30-00.50.18:823][715]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027AB44FA400), frame # 533715
+[2021.04.30-00.50.18:823][715]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027A8431EC00), frame # 533715
+[2021.04.30-00.50.18:823][715]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2021.04.30-00.50.18:824][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FinalPrison.FinalPrison to /Game/Maps/UEDPIE_0_FinalPrison.FinalPrison (0.054570s)
+[2021.04.30-00.50.18:842][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.04.30-00.50.18:858][715]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.30-00.50.18:858][715]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.30-00.50.18:858][715]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.30-00.50.18:858][715]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.30-00.50.18:858][715]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.30-00.50.18:858][715]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.30-00.50.18:858][715]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.30-00.50.18:858][715]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.30-00.50.18:858][715]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.30-00.50.18:858][715]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.30-00.50.18:861][715]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.30-00.50.18:861][715]LogAudioMixer: Display: 1: FrontRight
+[2021.04.30-00.50.18:872][715]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.04.30-00.50.18:872][715]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.30-00.50.18:872][715]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.30-00.50.18:872][715]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.30-00.50.18:873][715]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.30-00.50.18:881][715]LogInit: FAudioDevice initialized.
+[2021.04.30-00.50.18:895][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.30-00.50.18:895][715]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.30-00.50.18:921][715]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FinalPrison.FinalPrison up for play (max tick rate 0) at 2021.04.29-20.50.18
+[2021.04.30-00.50.18:921][715]LogWorld: Bringing up level for play took: 0.026194
+[2021.04.30-00.50.18:961][715]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.04.30-00.50.18:973][715]PIE: Server logged in
+[2021.04.30-00.50.18:974][715]PIE: Play in editor total start time 0.211 seconds.
+[2021.04.30-00.50.19:508][740]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] true
+[2021.04.30-00.50.22:011][960]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] false
+[2021.04.30-00.50.22:842][ 35]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] true
+[2021.04.30-00.50.23:199][ 68]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] false
+[2021.04.30-00.50.36:517][173]LogScript: Warning: Script Msg: Attempted to set an invalid index on array KeyArray [0/0]!
+[2021.04.30-00.50.43:059][694]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] true
+[2021.04.30-00.50.43:475][728]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] false
+[2021.04.30-00.50.56:787][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.30-00.50.56:787][782]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FinalPrison
+[2021.04.30-00.50.56:788][782]LogSlate: Window 'ThirdPersonHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.04.30-00.50.56:791][782]LogWorld: UWorld::CleanupWorld for FinalPrison, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-00.50.56:802][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.30-00.50.56:808][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.30-00.50.56:811][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.30-00.50.56:848][782]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027A8431EC00), frame # 536782
+[2021.04.30-00.50.56:848][782]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027AB44FA400), frame # 536782
+[2021.04.30-00.50.56:850][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.04.30-00.50.56:883][783]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.04.30-00.51.31:295][793]Cmd: EDIT COPY
+[2021.04.30-00.51.31:879][863]Cmd: EDIT PASTE
+[2021.04.30-00.51.37:649][538]Cmd: EDIT COPY
+[2021.04.30-00.51.38:017][582]Cmd: EDIT PASTE
+[2021.04.30-00.51.45:961][458]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush35)
+[2021.04.30-00.51.47:391][623]Cmd: EDIT COPY
+[2021.04.30-00.51.47:693][659]Cmd: EDIT PASTE
+[2021.04.30-00.52.33:039][889]Cmd: EDIT COPY
+[2021.04.30-00.52.33:541][949]Cmd: EDIT PASTE
+[2021.04.30-00.52.39:020][547]LogEditorViewport: Clicking on Actor (LMB): bars_C (bars7)
+[2021.04.30-00.52.41:110][790]Cmd: EDIT COPY
+[2021.04.30-00.52.41:464][832]Cmd: EDIT PASTE
+[2021.04.30-00.52.48:007][522]Cmd: EDIT COPY
+[2021.04.30-00.52.48:766][612]Cmd: EDIT PASTE
+[2021.04.30-00.52.57:558][560]Cmd: EDIT COPY
+[2021.04.30-00.52.58:564][680]Cmd: EDIT PASTE
+[2021.04.30-00.53.47:733][459]Cmd: EDIT COPY
+[2021.04.30-00.53.48:201][515]Cmd: EDIT PASTE
+[2021.04.30-00.54.01:683][ 55]Cmd: EDIT COPY
+[2021.04.30-00.54.02:045][ 98]Cmd: EDIT PASTE
+[2021.04.30-00.54.16:211][732]Cmd: EDIT COPY
+[2021.04.30-00.54.16:572][775]Cmd: EDIT PASTE
+[2021.04.30-00.54.24:012][646]Cmd: EDIT COPY
+[2021.04.30-00.54.24:314][682]Cmd: EDIT PASTE
+[2021.04.30-00.54.32:466][624]Cmd: EDIT COPY
+[2021.04.30-00.54.32:810][665]Cmd: EDIT PASTE
+[2021.04.30-00.54.51:352][817]Cmd: EDIT COPY
+[2021.04.30-00.54.51:654][853]Cmd: EDIT PASTE
+[2021.04.30-00.55.10:596][ 29]Cmd: EDIT COPY
+[2021.04.30-00.55.10:931][ 69]Cmd: EDIT PASTE
+[2021.04.30-00.55.21:426][287]Cmd: EDIT COPY
+[2021.04.30-00.55.21:825][334]Cmd: EDIT PASTE
+[2021.04.30-00.55.27:622][  3]Cmd: EDIT COPY
+[2021.04.30-00.55.28:096][ 53]Cmd: EDIT PASTE
+[2021.04.30-00.55.34:886][847]Cmd: EDIT COPY
+[2021.04.30-00.55.35:214][886]Cmd: EDIT PASTE
+[2021.04.30-00.55.43:406][850]Cmd: EDIT COPY
+[2021.04.30-00.55.43:663][880]Cmd: EDIT PASTE
+[2021.04.30-00.55.49:668][569]Cmd: EDIT COPY
+[2021.04.30-00.55.50:065][606]Cmd: EDIT PASTE
+[2021.04.30-00.56.04:766][316]Cmd: EDIT COPY
+[2021.04.30-00.56.05:110][357]Cmd: EDIT PASTE
+[2021.04.30-00.56.21:313][213]Cmd: EDIT COPY
+[2021.04.30-00.56.21:637][251]Cmd: EDIT PASTE
+[2021.04.30-00.56.23:397][453]Cmd: EDIT COPY
+[2021.04.30-00.56.30:643][309]Cmd: EDIT COPY
+[2021.04.30-00.56.30:881][337]Cmd: EDIT PASTE
+[2021.04.30-00.56.39:364][288]Cmd: EDIT COPY
+[2021.04.30-00.56.39:616][308]Cmd: EDIT PASTE
+[2021.04.30-00.56.57:845][374]Cmd: EDIT COPY
+[2021.04.30-00.56.58:145][409]Cmd: EDIT PASTE
+[2021.04.30-00.57.06:826][398]Cmd: EDIT COPY
+[2021.04.30-00.57.07:534][482]Cmd: EDIT PASTE
+[2021.04.30-00.57.16:124][481]Cmd: EDIT COPY
+[2021.04.30-00.57.16:380][498]Cmd: EDIT PASTE
+[2021.04.30-00.57.25:150][522]Cmd: EDIT COPY
+[2021.04.30-00.57.25:422][554]Cmd: EDIT PASTE
+[2021.04.30-00.57.36:073][785]Cmd: EDIT COPY
+[2021.04.30-00.57.36:339][810]Cmd: EDIT PASTE
+[2021.04.30-00.57.39:919][207]Cmd: EDIT COPY
+[2021.04.30-00.57.40:342][240]Cmd: EDIT PASTE
+[2021.04.30-00.57.47:116][999]Cmd: EDIT COPY
+[2021.04.30-00.57.47:359][ 25]Cmd: EDIT PASTE
+[2021.04.30-00.57.51:944][547]Cmd: EDIT COPY
+[2021.04.30-00.57.52:364][597]Cmd: EDIT PASTE
+[2021.04.30-00.58.45:788][830]LogEditorViewport: Clicking on Actor (LMB): bars_C (bars10)
+[2021.04.30-00.58.47:229][999]Cmd: EDIT COPY
+[2021.04.30-00.58.51:265][482]Cmd: EDIT COPY
+[2021.04.30-00.58.52:634][645]Cmd: EDIT PASTE
+[2021.04.30-00.59.34:156][424]Cmd: EDIT COPY
+[2021.04.30-00.59.35:067][532]Cmd: EDIT PASTE
+[2021.04.30-00.59.46:917][906]Cmd: EDIT COPY
+[2021.04.30-00.59.47:177][936]Cmd: EDIT PASTE
+[2021.04.30-00.59.52:783][557]Cmd: EDIT COPY
+[2021.04.30-00.59.53:081][592]Cmd: EDIT PASTE
+[2021.04.30-01.00.00:863][473]Cmd: EDIT COPY
+[2021.04.30-01.00.01:274][522]Cmd: EDIT PASTE
+[2021.04.30-01.00.06:724][116]Cmd: EDIT COPY
+[2021.04.30-01.00.07:168][167]Cmd: EDIT PASTE
+[2021.04.30-01.00.18:359][445]Cmd: EDIT COPY
+[2021.04.30-01.00.19:764][613]Cmd: EDIT PASTE
+[2021.04.30-01.01.13:163][850]Cmd: EDIT COPY
+[2021.04.30-01.01.13:707][915]Cmd: EDIT PASTE
+[2021.04.30-01.01.22:244][861]Cmd: EDIT COPY
+[2021.04.30-01.01.22:478][888]Cmd: EDIT PASTE
+[2021.04.30-01.01.30:577][799]Cmd: EDIT COPY
+[2021.04.30-01.01.31:037][853]Cmd: EDIT PASTE
+[2021.04.30-01.01.36:979][521]Cmd: EDIT COPY
+[2021.04.30-01.01.37:348][565]Cmd: EDIT PASTE
+[2021.04.30-01.01.47:051][633]Cmd: EDIT COPY
+[2021.04.30-01.01.47:330][665]Cmd: EDIT PASTE
+[2021.04.30-01.01.56:821][747]Cmd: EDIT COPY
+[2021.04.30-01.01.57:057][775]Cmd: EDIT PASTE
+[2021.04.30-01.02.17:312][ 17]Cmd: EDIT COPY
+[2021.04.30-01.02.17:639][ 56]Cmd: EDIT PASTE
+[2021.04.30-01.02.30:082][481]Cmd: EDIT COPY
+[2021.04.30-01.02.30:314][508]Cmd: EDIT PASTE
+[2021.04.30-01.02.36:611][187]Cmd: EDIT COPY
+[2021.04.30-01.02.36:853][215]Cmd: EDIT PASTE
+[2021.04.30-01.02.41:813][758]Cmd: EDIT COPY
+[2021.04.30-01.02.42:107][793]Cmd: EDIT PASTE
+[2021.04.30-01.02.48:402][502]Cmd: EDIT COPY
+[2021.04.30-01.02.48:624][528]Cmd: EDIT PASTE
+[2021.04.30-01.03.23:904][680]Cmd: EDIT COPY
+[2021.04.30-01.03.24:127][706]Cmd: EDIT PASTE
+[2021.04.30-01.03.45:001][132]Cmd: EDIT COPY
+[2021.04.30-01.03.45:299][167]Cmd: EDIT PASTE
+[2021.04.30-01.03.56:031][396]Cmd: EDIT COPY
+[2021.04.30-01.03.56:420][442]Cmd: EDIT PASTE
+[2021.04.30-01.04.05:202][422]Cmd: EDIT COPY
+[2021.04.30-01.04.05:480][455]Cmd: EDIT PASTE
+[2021.04.30-01.04.12:757][224]Cmd: EDIT COPY
+[2021.04.30-01.04.13:038][257]Cmd: EDIT PASTE
+[2021.04.30-01.04.20:144][ 54]Cmd: EDIT COPY
+[2021.04.30-01.04.20:544][101]Cmd: EDIT PASTE
+[2021.04.30-01.05.07:546][529]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-01.05.20:819][ 79]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-01.05.54:051][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.04.30-01.05.54:373][509]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison_Auto7D4C3583747A0AC2104250FB983AE5119.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Autosaves/Game/Maps/FinalPrison_Auto7.umap'
+[2021.04.30-01.05.54:376][509]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FinalPrison' took 0.418
+[2021.04.30-01.05.54:376][509]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.418
+[2021.04.30-01.07.04:678][897]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.30-01.08.25:587][377]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-01.08.28:654][739]Cmd: EDIT COPY
+[2021.04.30-01.08.28:966][776]Cmd: EDIT PASTE
+[2021.04.30-01.09.05:219][968]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-01.09.12:057][741]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-01.09.19:480][603]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-01.09.28:024][616]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-01.11.38:860][ 27]LogActorFactory: Actor Factory created SM_Toilet
+[2021.04.30-01.11.40:738][239]LogActorFactory: Actor Factory created SM_Toilet
+[2021.04.30-01.12.54:144][992]Cmd: EDIT COPY
+[2021.04.30-01.12.54:401][ 22]Cmd: EDIT PASTE
+[2021.04.30-01.13.02:550][907]Cmd: EDIT COPY
+[2021.04.30-01.13.02:809][937]Cmd: EDIT PASTE
+[2021.04.30-01.13.09:651][693]Cmd: EDIT COPY
+[2021.04.30-01.13.09:848][716]Cmd: EDIT PASTE
+[2021.04.30-01.13.16:956][496]Cmd: EDIT COPY
+[2021.04.30-01.13.17:150][519]Cmd: EDIT PASTE
+[2021.04.30-01.13.27:903][686]Cmd: EDIT COPY
+[2021.04.30-01.13.28:212][723]Cmd: EDIT PASTE
+[2021.04.30-01.16.12:072][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.04.30-01.16.12:393][842]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison_Auto8F5E3AD0F4B57313D886036BDFF764955.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Autosaves/Game/Maps/FinalPrison_Auto8.umap'
+[2021.04.30-01.16.12:396][842]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FinalPrison' took 0.349
+[2021.04.30-01.16.12:396][842]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.349
+[2021.04.30-01.21.02:903][386]Cmd: EDIT COPY
+[2021.04.30-01.21.03:239][426]Cmd: EDIT PASTE
+[2021.04.30-01.21.20:084][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Toilet7)
+[2021.04.30-01.21.31:234][724]Cmd: EDIT COPY
+[2021.04.30-01.21.31:502][756]Cmd: EDIT PASTE
+[2021.04.30-01.21.39:999][680]Cmd: EDIT COPY
+[2021.04.30-01.21.40:506][732]Cmd: EDIT PASTE
+[2021.04.30-01.21.45:781][313]Cmd: EDIT COPY
+[2021.04.30-01.21.46:102][347]Cmd: EDIT PASTE
+[2021.04.30-01.21.57:000][588]Cmd: EDIT COPY
+[2021.04.30-01.21.57:268][620]Cmd: EDIT PASTE
+[2021.04.30-01.22.03:155][273]LogEditorViewport: Clicking on Actor (LMB): bars_C (bars15)
+[2021.04.30-01.22.11:413][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Toilet11)
+[2021.04.30-01.22.16:102][809]Cmd: EDIT COPY
+[2021.04.30-01.22.16:403][845]Cmd: EDIT PASTE
+[2021.04.30-01.22.32:447][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Toilet2)
+[2021.04.30-01.22.33:263][797]Cmd: EDIT COPY
+[2021.04.30-01.22.33:691][848]Cmd: EDIT PASTE
+[2021.04.30-01.22.45:440][125]Cmd: EDIT COPY
+[2021.04.30-01.22.45:779][165]Cmd: EDIT PASTE
+[2021.04.30-01.22.55:302][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Toilet13)
+[2021.04.30-01.22.59:841][741]Cmd: EDIT COPY
+[2021.04.30-01.23.00:030][756]Cmd: EDIT PASTE
+[2021.04.30-01.23.04:656][266]Cmd: EDIT COPY
+[2021.04.30-01.23.04:933][299]Cmd: EDIT PASTE
+[2021.04.30-01.23.10:141][854]Cmd: EDIT COPY
+[2021.04.30-01.23.10:338][869]Cmd: EDIT PASTE
+[2021.04.30-01.23.15:664][423]Cmd: EDIT COPY
+[2021.04.30-01.23.15:907][452]Cmd: EDIT PASTE
+[2021.04.30-01.23.49:970][492]Cmd: EDIT COPY
+[2021.04.30-01.23.50:156][514]Cmd: EDIT PASTE
+[2021.04.30-01.24.14:837][324]Cmd: EDIT COPY
+[2021.04.30-01.24.15:077][352]Cmd: EDIT PASTE
+[2021.04.30-01.24.24:477][413]Cmd: EDIT COPY
+[2021.04.30-01.24.24:692][437]Cmd: EDIT PASTE
+[2021.04.30-01.24.32:421][290]Cmd: EDIT COPY
+[2021.04.30-01.24.32:672][320]Cmd: EDIT PASTE
+[2021.04.30-01.24.40:255][131]Cmd: EDIT COPY
+[2021.04.30-01.24.40:497][160]Cmd: EDIT PASTE
+[2021.04.30-01.24.53:540][640]Cmd: EDIT COPY
+[2021.04.30-01.24.53:758][666]Cmd: EDIT PASTE
+[2021.04.30-01.25.01:772][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Toilet23)
+[2021.04.30-01.25.06:236][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Toilet22)
+[2021.04.30-01.25.23:444][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Toilet14)
+[2021.04.30-01.25.24:445][184]Cmd: EDIT COPY
+[2021.04.30-01.25.24:655][209]Cmd: EDIT PASTE
+[2021.04.30-01.26.08:077][270]Cmd: EDIT COPY
+[2021.04.30-01.26.08:281][294]Cmd: EDIT PASTE
+[2021.04.30-01.26.16:260][197]Cmd: EDIT COPY
+[2021.04.30-01.26.16:443][219]Cmd: EDIT PASTE
+[2021.04.30-01.26.23:378][997]Cmd: EDIT COPY
+[2021.04.30-01.26.23:601][ 22]Cmd: EDIT PASTE
+[2021.04.30-01.26.27:107][400]Cmd: EDIT COPY
+[2021.04.30-01.26.27:295][419]Cmd: EDIT PASTE
+[2021.04.30-01.26.31:422][853]Cmd: EDIT COPY
+[2021.04.30-01.26.31:624][872]Cmd: EDIT PASTE
+[2021.04.30-01.27.25:233][980]LogActorFactory: Actor Factory created SM_Military_Bed
+[2021.04.30-01.27.26:639][134]LogActorFactory: Actor Factory created SM_Military_Bed
+[2021.04.30-01.28.22:027][721]Cmd: EDIT COPY
+[2021.04.30-01.28.22:249][747]Cmd: EDIT PASTE
+[2021.04.30-01.28.28:287][401]Cmd: EDIT COPY
+[2021.04.30-01.28.28:497][426]Cmd: EDIT PASTE
+[2021.04.30-01.28.36:673][306]Cmd: EDIT COPY
+[2021.04.30-01.28.36:866][329]Cmd: EDIT PASTE
+[2021.04.30-01.28.47:604][555]Cmd: EDIT COPY
+[2021.04.30-01.28.47:827][581]Cmd: EDIT PASTE
+[2021.04.30-01.28.53:212][181]Cmd: EDIT COPY
+[2021.04.30-01.28.53:472][212]Cmd: EDIT PASTE
+[2021.04.30-01.29.01:210][ 63]Cmd: EDIT COPY
+[2021.04.30-01.29.01:386][ 84]Cmd: EDIT PASTE
+[2021.04.30-01.29.21:720][367]Cmd: EDIT COPY
+[2021.04.30-01.29.21:887][387]Cmd: EDIT PASTE
+[2021.04.30-01.29.28:975][139]Cmd: EDIT COPY
+[2021.04.30-01.29.29:212][166]Cmd: EDIT PASTE
+[2021.04.30-01.29.35:361][836]Cmd: EDIT COPY
+[2021.04.30-01.29.35:575][855]Cmd: EDIT PASTE
+[2021.04.30-01.29.47:199][201]Cmd: EDIT COPY
+[2021.04.30-01.29.48:785][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Military_Bed10)
+[2021.04.30-01.29.49:685][497]Cmd: EDIT COPY
+[2021.04.30-01.29.50:097][546]Cmd: EDIT PASTE
+[2021.04.30-01.29.52:328][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Military_Bed10)
+[2021.04.30-01.29.58:380][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Military_Bed11)
+[2021.04.30-01.30.01:560][799]Cmd: EDIT COPY
+[2021.04.30-01.30.01:897][839]Cmd: EDIT PASTE
+[2021.04.30-01.30.10:298][764]LogActorFactory: Actor Factory created SM_Military_Bed
+[2021.04.30-01.30.11:832][929]LogActorFactory: Actor Factory created SM_Military_Bed
+[2021.04.30-01.30.20:280][931]Cmd: EDIT COPY
+[2021.04.30-01.30.20:473][954]Cmd: EDIT PASTE
+[2021.04.30-01.30.25:394][501]Cmd: EDIT COPY
+[2021.04.30-01.30.25:612][527]Cmd: EDIT PASTE
+[2021.04.30-01.30.32:109][229]Cmd: EDIT COPY
+[2021.04.30-01.30.32:336][256]Cmd: EDIT PASTE
+[2021.04.30-01.30.36:897][748]Cmd: EDIT COPY
+[2021.04.30-01.30.37:089][761]Cmd: EDIT PASTE
+[2021.04.30-01.30.40:856][148]Cmd: EDIT COPY
+[2021.04.30-01.30.41:073][174]Cmd: EDIT PASTE
+[2021.04.30-01.30.50:231][196]LogActorFactory: Actor Factory created SM_Military_Bed
+[2021.04.30-01.30.52:349][429]LogActorFactory: Actor Factory created SM_Military_Bed
+[2021.04.30-01.31.36:125][589]Cmd: EDIT COPY
+[2021.04.30-01.31.36:334][614]Cmd: EDIT PASTE
+[2021.04.30-01.31.36:604][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.04.30-01.31.36:929][636]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison_Auto9A30A24E148D0B4304AE54A92CD34C4D0.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/Autosaves/Game/Maps/FinalPrison_Auto9.umap'
+[2021.04.30-01.31.36:932][636]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FinalPrison' took 0.348
+[2021.04.30-01.31.36:932][636]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.348
+[2021.04.30-01.31.42:100][216]Cmd: EDIT COPY
+[2021.04.30-01.31.42:430][255]Cmd: EDIT PASTE
+[2021.04.30-01.31.53:688][510]Cmd: EDIT COPY
+[2021.04.30-01.31.53:929][539]Cmd: EDIT PASTE
+[2021.04.30-01.31.59:242][133]Cmd: EDIT COPY
+[2021.04.30-01.31.59:434][156]Cmd: EDIT PASTE
+[2021.04.30-01.32.03:849][618]Cmd: EDIT COPY
+[2021.04.30-01.32.04:103][648]Cmd: EDIT PASTE
+[2021.04.30-01.32.42:467][957]LogActorFactory: Actor Factory created SM_Military_Bed
+[2021.04.30-01.32.44:153][147]LogActorFactory: Actor Factory created SM_Military_Bed
+[2021.04.30-01.32.51:248][986]Cmd: EDIT COPY
+[2021.04.30-01.32.51:512][ 17]Cmd: EDIT PASTE
+[2021.04.30-01.32.55:332][413]Cmd: EDIT COPY
+[2021.04.30-01.32.55:517][435]Cmd: EDIT PASTE
+[2021.04.30-01.33.02:983][262]Cmd: EDIT COPY
+[2021.04.30-01.33.03:185][286]Cmd: EDIT PASTE
+[2021.04.30-01.33.07:171][713]Cmd: EDIT COPY
+[2021.04.30-01.33.07:362][730]Cmd: EDIT PASTE
+[2021.04.30-01.33.12:783][310]Cmd: EDIT COPY
+[2021.04.30-01.33.13:231][355]Cmd: EDIT PASTE
+[2021.04.30-01.33.24:380][616]LogEditorViewport: Clicking on Actor (LMB): Light_Alert_C (Light_Alert2)
+[2021.04.30-01.34.04:124][509]LogEditorViewport: Clicking on Actor (LMB): Light_Alert_C (Light_Alert2)
+[2021.04.30-01.34.05:022][614]Cmd: DELETE
+[2021.04.30-01.34.05:022][614]Cmd: ACTOR DELETE
+[2021.04.30-01.34.05:035][614]LogEditorActor: Deleted Actor: Light_Alert_C
+[2021.04.30-01.34.05:054][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.04.30-01.34.05:067][614]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2021.04.30-01.35.59:293][992]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-01.36.12:246][500]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-01.36.20:464][457]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-01.36.26:839][160]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.30-01.37.01:082][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.04.30-01.37.01:410][126]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison80EC6F3A4B942E9E67925D860C919F15.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison.umap'
+[2021.04.30-01.37.01:447][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FinalPrison_BuiltData" FILE="C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset" SILENT=true
+[2021.04.30-01.37.01:688][126]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison_BuiltDataCB6AE01F4F4C492E69C6CDA9C3DAE6A4.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset'
+[2021.04.30-01.37.01:709][126]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.30-01.37.01:709][126]LogContentValidation: Display: Validating World /Game/Maps/FinalPrison.FinalPrison
+[2021.04.30-01.37.01:709][126]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/FinalPrison_BuiltData.FinalPrison_BuiltData
+[2021.04.30-01.37.14:520][601]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.30-01.37.16:860][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2021.04.30-01.37.25:572][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.04.30-01.37.25:891][891]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison20D55FB940FCB3F06BE283A37A5A7536.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison.umap'
+[2021.04.30-01.37.25:921][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FinalPrison_BuiltData" FILE="C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset" SILENT=true
+[2021.04.30-01.37.26:140][891]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison_BuiltDataADF857104BCE7A86012D4BA447F470C2.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset'
+[2021.04.30-01.37.26:155][891]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.30-01.37.26:155][891]LogContentValidation: Display: Validating World /Game/Maps/FinalPrison.FinalPrison
+[2021.04.30-01.37.26:155][891]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/FinalPrison_BuiltData.FinalPrison_BuiltData
+[2021.04.30-01.37.36:646][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.04.30-01.37.36:957][139]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison5C4C86BF4FC829F52190F4A63541B75E.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison.umap'
+[2021.04.30-01.37.36:986][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FinalPrison_BuiltData" FILE="C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset" SILENT=true
+[2021.04.30-01.37.37:207][139]LogSavePackage: Moving 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Saved/FinalPrison_BuiltData31210D0C40F7888CEDC72CACABAD3F3C.tmp' to 'C:/Users/Alvin/Documents/GitRepos/ThirdPersonHorror/ThirdPersonHorror/Content/Maps/FinalPrison_BuiltData.uasset'
+[2021.04.30-01.37.37:222][139]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.30-01.37.37:223][139]LogContentValidation: Display: Validating World /Game/Maps/FinalPrison.FinalPrison
+[2021.04.30-01.37.37:223][139]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/FinalPrison_BuiltData.FinalPrison_BuiltData
+[2021.04.30-01.37.38:319][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.04.30-01.37.38:388][268]LogSlate: Window 'ThirdPersonHorror - Unreal Editor' being destroyed
+[2021.04.30-01.37.38:495][269]Cmd: QUIT_EDITOR
+[2021.04.30-01.37.38:495][269]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.04.30-01.37.38:502][269]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.04.30-01.37.39:513][269]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.04.30-01.37.39:522][269]LogExit: Preparing to exit.
+[2021.04.30-01.37.40:511][269]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:514][269]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:517][269]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:519][269]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:521][269]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:523][269]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:524][269]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:526][269]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:528][269]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:529][269]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:531][269]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:532][269]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:534][269]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:535][269]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:537][269]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:538][269]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:540][269]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:543][269]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:545][269]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:547][269]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:549][269]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:551][269]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:554][269]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:558][269]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:560][269]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:629][269]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.04.30-01.37.40:863][269]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.04.30-01.37.40:867][269]LogExit: Editor shut down
+[2021.04.30-01.37.40:868][269]LogExit: Transaction tracking system shut down
+[2021.04.30-01.37.41:032][269]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (0000027A7B7F0340), frame # 827269
+[2021.04.30-01.37.41:033][269]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027A7B724E00), frame # 827269
+[2021.04.30-01.37.41:033][269]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027A7B779E00), frame # 827269
+[2021.04.30-01.37.41:062][269]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027A29B5A840), frame # 827269
+[2021.04.30-01.37.41:062][269]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027A83A82E00), frame # 827269
+[2021.04.30-01.37.41:245][269]LogExit: Object subsystem successfully closed.
+[2021.04.30-01.37.41:269][269]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.04.30-01.37.41:281][269]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (788)
+[2021.04.30-01.37.41:281][269]LogModuleManager: Shutting down and abandoning module Voice (786)
+[2021.04.30-01.37.41:281][269]LogModuleManager: Shutting down and abandoning module BlueprintGraph (784)
+[2021.04.30-01.37.41:281][269]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (782)
+[2021.04.30-01.37.41:281][269]LogModuleManager: Shutting down and abandoning module SceneOutliner (780)
+[2021.04.30-01.37.41:281][269]LogModuleManager: Shutting down and abandoning module AddContentDialog (778)
+[2021.04.30-01.37.41:283][269]LogModuleManager: Shutting down and abandoning module WidgetCarousel (777)
+[2021.04.30-01.37.41:283][269]LogModuleManager: Shutting down and abandoning module EditorWidgets (774)
+[2021.04.30-01.37.41:283][269]LogModuleManager: Shutting down and abandoning module CollectionManager (772)
+[2021.04.30-01.37.41:283][269]LogModuleManager: Shutting down and abandoning module StatsViewer (770)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (768)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module FoliageEdit (766)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module LandscapeEditor (764)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module MeshPaintMode (762)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (760)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module ActorPickerMode (758)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (756)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (754)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module AutomationWorker (752)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module OculusMR (750)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module GooglePADEditor (748)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (746)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (744)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (742)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (740)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (738)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (736)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (734)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (732)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (730)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module WebMMedia (728)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (726)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (724)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module SequenceRecorder (723)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (720)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (718)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (716)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (714)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (712)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (710)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (708)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (706)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (704)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (702)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module PlanarCut (700)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module CharacterAI (698)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module TextureAlignMode (696)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module BspMode (694)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module PlacementMode (693)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module GeometryMode (690)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (688)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module SmartSnapping (686)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module SessionServices (684)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module MeshPaint (682)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module ViewportSnapping (680)
+[2021.04.30-01.37.41:284][269]LogModuleManager: Shutting down and abandoning module ViewportInteraction (678)
+[2021.04.30-01.37.41:285][269]LogModuleManager: Shutting down and abandoning module ClothPainter (676)
+[2021.04.30-01.37.41:285][269]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (675)
+[2021.04.30-01.37.41:285][269]LogModuleManager: Shutting down and abandoning module LogVisualizer (672)
+[2021.04.30-01.37.41:285][269]LogModuleManager: Shutting down and abandoning module IntroTutorials (670)
+[2021.04.30-01.37.41:285][269]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (669)
+[2021.04.30-01.37.41:285][269]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (666)
+[2021.04.30-01.37.41:285][269]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (664)
+[2021.04.30-01.37.41:285][269]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (662)
+[2021.04.30-01.37.41:285][269]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (661)
+[2021.04.30-01.37.42:704][269]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (658)
+[2021.04.30-01.37.42:704][269]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (656)
+[2021.04.30-01.37.42:704][269]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (654)
+[2021.04.30-01.37.42:704][269]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (652)
+[2021.04.30-01.37.42:704][269]LogModuleManager: Shutting down and abandoning module TraceInsights (650)
+[2021.04.30-01.37.42:704][269]LogModuleManager: Shutting down and abandoning module TraceServices (649)
+[2021.04.30-01.37.42:704][269]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (646)
+[2021.04.30-01.37.42:704][269]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (644)
+[2021.04.30-01.37.42:704][269]LogModuleManager: Shutting down and abandoning module InputBindingEditor (642)
+[2021.04.30-01.37.42:704][269]LogModuleManager: Shutting down and abandoning module MergeActors (640)
+[2021.04.30-01.37.42:705][269]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (638)
+[2021.04.30-01.37.42:705][269]LogModuleManager: Shutting down and abandoning module LocalizationService (637)
+[2021.04.30-01.37.42:705][269]LogModuleManager: Shutting down and abandoning module HardwareTargeting (634)
+[2021.04.30-01.37.42:705][269]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (632)
+[2021.04.30-01.37.42:705][269]LogModuleManager: Shutting down and abandoning module UndoHistory (630)
+[2021.04.30-01.37.42:705][269]LogModuleManager: Shutting down and abandoning module XmlParser (628)
+[2021.04.30-01.37.42:705][269]LogModuleManager: Shutting down and abandoning module Blutility (626)
+[2021.04.30-01.37.42:705][269]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (624)
+[2021.04.30-01.37.42:705][269]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (623)
+[2021.04.30-01.37.42:705][269]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (620)
+[2021.04.30-01.37.42:705][269]LogModuleManager: Shutting down and abandoning module SettingsEditor (618)
+[2021.04.30-01.37.42:705][269]LogModuleManager: Shutting down and abandoning module ProjectLauncher (616)
+[2021.04.30-01.37.42:705][269]LogModuleManager: Shutting down and abandoning module SessionFrontend (614)
+[2021.04.30-01.37.42:705][269]LogModuleManager: Shutting down and abandoning module ProfilerClient (612)
+[2021.04.30-01.37.42:705][269]LogModuleManager: Shutting down and abandoning module DeviceManager (610)
+[2021.04.30-01.37.42:705][269]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (609)
+[2021.04.30-01.37.42:738][269]LogModuleManager: Shutting down and abandoning module AutomationController (606)
+[2021.04.30-01.37.42:738][269]LogModuleManager: Shutting down and abandoning module AutomationWindow (604)
+[2021.04.30-01.37.42:738][269]LogModuleManager: Shutting down and abandoning module Layers (602)
+[2021.04.30-01.37.42:738][269]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (600)
+[2021.04.30-01.37.42:738][269]LogModuleManager: Shutting down and abandoning module DetailCustomizations (598)
+[2021.04.30-01.37.42:738][269]LogModuleManager: Shutting down and abandoning module PackagesDialog (596)
+[2021.04.30-01.37.42:738][269]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (594)
+[2021.04.30-01.37.42:738][269]LogModuleManager: Shutting down and abandoning module Persona (592)
+[2021.04.30-01.37.42:738][269]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (591)
+[2021.04.30-01.37.42:738][269]LogModuleManager: Shutting down and abandoning module AnimGraph (589)
+[2021.04.30-01.37.42:738][269]LogModuleManager: Shutting down and abandoning module Kismet (586)
+[2021.04.30-01.37.42:748][269]LogModuleManager: Shutting down and abandoning module KismetWidgets (585)
+[2021.04.30-01.37.42:748][269]LogModuleManager: Shutting down and abandoning module GraphEditor (582)
+[2021.04.30-01.37.42:748][269]LogModuleManager: Shutting down and abandoning module StructViewer (580)
+[2021.04.30-01.37.42:748][269]LogModuleManager: Shutting down and abandoning module ClassViewer (578)
+[2021.04.30-01.37.42:748][269]LogModuleManager: Shutting down and abandoning module Toolbox (576)
+[2021.04.30-01.37.42:748][269]LogModuleManager: Shutting down and abandoning module ModuleUI (574)
+[2021.04.30-01.37.42:748][269]LogModuleManager: Shutting down and abandoning module OutputLog (572)
+[2021.04.30-01.37.42:749][269]LogModuleManager: Shutting down and abandoning module GammaUI (570)
+[2021.04.30-01.37.42:749][269]LogModuleManager: Shutting down and abandoning module Documentation (568)
+[2021.04.30-01.37.42:750][269]LogModuleManager: Shutting down and abandoning module LiveCoding (566)
+[2021.04.30-01.37.42:750][269]LogModuleManager: Shutting down and abandoning module LevelSequence (564)
+[2021.04.30-01.37.42:750][269]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (562)
+[2021.04.30-01.37.42:750][269]LogModuleManager: Shutting down and abandoning module MovieScene (560)
+[2021.04.30-01.37.42:750][269]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (558)
+[2021.04.30-01.37.42:750][269]LogModuleManager: Shutting down and abandoning module LauncherPlatform (556)
+[2021.04.30-01.37.42:750][269]LogModuleManager: Shutting down and abandoning module AnalyticsET (554)
+[2021.04.30-01.37.42:750][269]LogModuleManager: Shutting down and abandoning module PortalServices (552)
+[2021.04.30-01.37.42:750][269]LogModuleManager: Shutting down and abandoning module PortalRpc (550)
+[2021.04.30-01.37.42:750][269]LogModuleManager: Shutting down and abandoning module MessagingRpc (548)
+[2021.04.30-01.37.42:750][269]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (546)
+[2021.04.30-01.37.42:750][269]LogModuleManager: Shutting down and abandoning module AudioMixerCore (545)
+[2021.04.30-01.37.42:750][269]LogModuleManager: Shutting down and abandoning module AIModule (542)
+[2021.04.30-01.37.42:750][269]LogModuleManager: Shutting down and abandoning module GameplayDebugger (541)
+[2021.04.30-01.37.42:750][269]LogModuleManager: Shutting down and abandoning module AITestSuite (539)
+[2021.04.30-01.37.42:750][269]LogModuleManager: Shutting down and abandoning module NavigationSystem (537)
+[2021.04.30-01.37.42:750][269]LogModuleManager: Shutting down and abandoning module ProfilerService (534)
+[2021.04.30-01.37.42:762][269]LogModuleManager: Shutting down and abandoning module TaskGraph (532)
+[2021.04.30-01.37.42:762][269]LogModuleManager: Shutting down and abandoning module ScreenshotTools (530)
+[2021.04.30-01.37.42:762][269]LogModuleManager: Shutting down and abandoning module SynthesisEditor (528)
+[2021.04.30-01.37.42:762][269]LogModuleManager: Shutting down and abandoning module Synthesis (526)
+[2021.04.30-01.37.42:762][269]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (524)
+[2021.04.30-01.37.42:762][269]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (522)
+[2021.04.30-01.37.42:762][269]LogModuleManager: Shutting down and abandoning module OculusEditor (520)
+[2021.04.30-01.37.42:762][269]LogModuleManager: Shutting down and abandoning module OculusInput (518)
+[2021.04.30-01.37.42:763][269]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (516)
+[2021.04.30-01.37.42:763][269]LogModuleManager: Shutting down and abandoning module GooglePAD (514)
+[2021.04.30-01.37.42:763][269]LogModuleManager: Shutting down and abandoning module EditableMesh (512)
+[2021.04.30-01.37.42:763][269]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (510)
+[2021.04.30-01.37.42:763][269]LogModuleManager: Shutting down and abandoning module CableComponent (508)
+[2021.04.30-01.37.42:763][269]LogModuleManager: Shutting down and abandoning module AudioCapture (506)
+[2021.04.30-01.37.42:763][269]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (505)
+[2021.04.30-01.37.42:763][269]LogModuleManager: Shutting down and abandoning module AssetTags (502)
+[2021.04.30-01.37.42:763][269]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (500)
+[2021.04.30-01.37.42:763][269]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (498)
+[2021.04.30-01.37.42:763][269]LogModuleManager: Shutting down and abandoning module AppleImageUtils (496)
+[2021.04.30-01.37.42:763][269]LogModuleManager: Shutting down and abandoning module AndroidPermission (494)
+[2021.04.30-01.37.42:763][269]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (492)
+[2021.04.30-01.37.42:763][269]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (490)
+[2021.04.30-01.37.42:763][269]LogModuleManager: Shutting down and abandoning module TemplateSequence (488)
+[2021.04.30-01.37.42:763][269]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (486)
+[2021.04.30-01.37.42:763][269]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (484)
+[2021.04.30-01.37.42:763][269]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (482)
+[2021.04.30-01.37.42:763][269]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (480)
+[2021.04.30-01.37.42:763][269]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (479)
+[2021.04.30-01.37.42:766][269]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (476)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (474)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module MediaCompositing (472)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module ImgMedia (470)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (468)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (466)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (464)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (462)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (460)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (458)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (456)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module MeshConversion (454)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module DynamicMesh (452)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (450)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module GeometricObjects (448)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (446)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (445)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (442)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (440)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (438)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (436)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module ChaosNiagara (434)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module FractureEditor (432)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (430)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module ChaosCloth (428)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module BackChannel (426)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (424)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module AutomationUtils (422)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module AlembicImporter (420)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module AlembicLibrary (419)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module GeometryCache (418)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (417)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (412)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (410)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (408)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module PluginBrowser (406)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (404)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (402)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (400)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module CurveEditorTools (398)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (396)
+[2021.04.30-01.37.42:767][269]LogModuleManager: Shutting down and abandoning module CryptoKeys (394)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (392)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (390)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module UObjectPlugin (388)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (386)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (384)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (382)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (380)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module GitSourceControl (378)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module SourceControl (377)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (374)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (372)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (370)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (368)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (366)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (364)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (362)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module Paper2DEditor (360)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module SoundFields (358)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module SignificanceManager (356)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (354)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (352)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (348)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module ActorSequence (346)
+[2021.04.30-01.37.42:768][269]LogModuleManager: Shutting down and abandoning module UdpMessaging (344)
+[2021.04.30-01.37.42:869][269]LogModuleManager: Shutting down and abandoning module TcpMessaging (342)
+[2021.04.30-01.37.42:970][269]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (340)
+[2021.04.30-01.37.42:970][269]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (338)
+[2021.04.30-01.37.42:970][269]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (336)
+[2021.04.30-01.37.42:970][269]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (334)
+[2021.04.30-01.37.42:970][269]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (332)
+[2021.04.30-01.37.42:970][269]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.04.30-01.37.42:970][269]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (330)
+[2021.04.30-01.37.42:970][269]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (328)
+[2021.04.30-01.37.42:970][269]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (326)
+[2021.04.30-01.37.42:970][269]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (324)
+[2021.04.30-01.37.42:970][269]LogModuleManager: Shutting down and abandoning module MagicLeapController (322)
+[2021.04.30-01.37.42:970][269]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.04.30-01.37.42:970][269]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (320)
+[2021.04.30-01.37.42:970][269]LogModuleManager: Shutting down and abandoning module MagicLeapAR (318)
+[2021.04.30-01.37.42:970][269]LogModuleManager: Shutting down and abandoning module AugmentedReality (317)
+[2021.04.30-01.37.42:970][269]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (314)
+[2021.04.30-01.37.42:970][269]LogModuleManager: Shutting down and abandoning module Niagara (312)
+[2021.04.30-01.37.42:970][269]LogModuleManager: Shutting down and abandoning module SignalProcessing (311)
+[2021.04.30-01.37.42:970][269]LogModuleManager: Shutting down and abandoning module NiagaraEditor (309)
+[2021.04.30-01.37.42:971][269]LogModuleManager: Shutting down and abandoning module NiagaraCore (306)
+[2021.04.30-01.37.42:971][269]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (304)
+[2021.04.30-01.37.42:971][269]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (302)
+[2021.04.30-01.37.42:971][269]LogModuleManager: Shutting down and abandoning module FacialAnimation (300)
+[2021.04.30-01.37.42:971][269]LogModuleManager: Shutting down and abandoning module DataValidation (298)
+[2021.04.30-01.37.42:971][269]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (296)
+[2021.04.30-01.37.42:971][269]LogModuleManager: Shutting down and abandoning module LevelEditor (295)
+[2021.04.30-01.37.42:972][269]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (294)
+[2021.04.30-01.37.42:973][269]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (292)
+[2021.04.30-01.37.42:973][269]LogModuleManager: Shutting down and abandoning module MainFrame (290)
+[2021.04.30-01.37.42:973][269]LogModuleManager: Shutting down and abandoning module HotReload (289)
+[2021.04.30-01.37.42:973][269]LogModuleManager: Shutting down and abandoning module ToolMenus (285)
+[2021.04.30-01.37.42:973][269]LogModuleManager: Shutting down and abandoning module TreeMap (283)
+[2021.04.30-01.37.42:973][269]LogModuleManager: Shutting down and abandoning module AnimationSharing (280)
+[2021.04.30-01.37.42:973][269]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (278)
+[2021.04.30-01.37.42:973][269]LogModuleManager: Shutting down and abandoning module Paper2D (276)
+[2021.04.30-01.37.42:973][269]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (274)
+[2021.04.30-01.37.42:981][269]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (272)
+[2021.04.30-01.37.42:981][269]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (270)
+[2021.04.30-01.37.42:981][269]LogModuleManager: Shutting down and abandoning module PacketHandler (268)
+[2021.04.30-01.37.42:981][269]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (266)
+[2021.04.30-01.37.42:981][269]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (264)
+[2021.04.30-01.37.42:981][269]LogModuleManager: Shutting down and abandoning module MediaAssets (262)
+[2021.04.30-01.37.42:981][269]LogModuleManager: Shutting down and abandoning module Overlay (260)
+[2021.04.30-01.37.42:981][269]LogModuleManager: Shutting down and abandoning module OverlayEditor (259)
+[2021.04.30-01.37.42:981][269]LogModuleManager: Shutting down and abandoning module VREditor (256)
+[2021.04.30-01.37.42:981][269]LogModuleManager: Shutting down and abandoning module StringTableEditor (254)
+[2021.04.30-01.37.42:981][269]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (252)
+[2021.04.30-01.37.42:981][269]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (250)
+[2021.04.30-01.37.42:981][269]LogModuleManager: Shutting down and abandoning module FunctionalTesting (248)
+[2021.04.30-01.37.42:981][269]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (246)
+[2021.04.30-01.37.42:981][269]LogModuleManager: Shutting down and abandoning module UMG (244)
+[2021.04.30-01.37.42:981][269]LogModuleManager: Shutting down and abandoning module UMGEditor (243)
+[2021.04.30-01.37.42:981][269]LogModuleManager: Shutting down and abandoning module MessageLog (241)
+[2021.04.30-01.37.42:981][269]LogModuleManager: Shutting down and abandoning module MaterialEditor (239)
+[2021.04.30-01.37.42:981][269]LogModuleManager: Shutting down and abandoning module ContentBrowser (238)
+[2021.04.30-01.37.42:983][269]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2021.04.30-01.37.42:983][269]LogModuleManager: Shutting down and abandoning module SlateReflector (230)
+[2021.04.30-01.37.42:983][269]LogModuleManager: Shutting down and abandoning module Slate (228)
+[2021.04.30-01.37.42:983][269]LogModuleManager: Shutting down and abandoning module SlateCore (226)
+[2021.04.30-01.37.42:983][269]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (224)
+[2021.04.30-01.37.42:983][269]LogModuleManager: Shutting down and abandoning module UnrealEd (222)
+[2021.04.30-01.37.42:983][269]LogModuleManager: Shutting down and abandoning module MRMesh (220)
+[2021.04.30-01.37.42:983][269]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (218)
+[2021.04.30-01.37.42:983][269]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (216)
+[2021.04.30-01.37.42:983][269]LogModuleManager: Shutting down and abandoning module XAudio2 (214)
+[2021.04.30-01.37.42:983][269]LogModuleManager: Shutting down and abandoning module Networking (212)
+[2021.04.30-01.37.42:983][269]LogModuleManager: Shutting down and abandoning module Core (210)
+[2021.04.30-01.37.42:983][269]LogModuleManager: Shutting down and abandoning module MovieSceneTools (208)
+[2021.04.30-01.37.42:983][269]LogModuleManager: Shutting down and abandoning module CurveEditor (207)
+[2021.04.30-01.37.42:984][269]LogModuleManager: Shutting down and abandoning module Sequencer (205)
+[2021.04.30-01.37.42:984][269]LogModuleManager: Shutting down and abandoning module EditorStyle (204)
+[2021.04.30-01.37.42:985][269]LogModuleManager: Shutting down and abandoning module KismetCompiler (200)
+[2021.04.30-01.37.42:985][269]LogModuleManager: Shutting down and abandoning module MeshBuilder (198)
+[2021.04.30-01.37.42:985][269]LogModuleManager: Shutting down and abandoning module MeshUtilities (196)
+[2021.04.30-01.37.42:985][269]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (195)
+[2021.04.30-01.37.42:985][269]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (194)
+[2021.04.30-01.37.42:985][269]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (193)
+[2021.04.30-01.37.42:985][269]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (191)
+[2021.04.30-01.37.42:985][269]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (189)
+[2021.04.30-01.37.42:985][269]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (187)
+[2021.04.30-01.37.42:985][269]LogModuleManager: Shutting down and abandoning module MaterialBaking (183)
+[2021.04.30-01.37.42:985][269]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (178)
+[2021.04.30-01.37.42:985][269]LogModuleManager: Shutting down and abandoning module DerivedDataCache (176)
+[2021.04.30-01.37.42:985][269]LogModuleManager: Shutting down and abandoning module XGEController (174)
+[2021.04.30-01.37.42:985][269]LogModuleManager: Shutting down and abandoning module TargetPlatform (172)
+[2021.04.30-01.37.42:986][269]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (171)
+[2021.04.30-01.37.42:986][269]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (169)
+[2021.04.30-01.37.42:986][269]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (167)
+[2021.04.30-01.37.42:986][269]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (165)
+[2021.04.30-01.37.42:986][269]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (163)
+[2021.04.30-01.37.42:986][269]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (161)
+[2021.04.30-01.37.42:986][269]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (159)
+[2021.04.30-01.37.42:986][269]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (157)
+[2021.04.30-01.37.42:986][269]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (155)
+[2021.04.30-01.37.42:986][269]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (153)
+[2021.04.30-01.37.42:986][269]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2021.04.30-01.37.42:986][269]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (149)
+[2021.04.30-01.37.42:986][269]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (147)
+[2021.04.30-01.37.42:986][269]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (145)
+[2021.04.30-01.37.42:986][269]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (143)
+[2021.04.30-01.37.42:986][269]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (141)
+[2021.04.30-01.37.42:986][269]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (139)
+[2021.04.30-01.37.42:986][269]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (137)
+[2021.04.30-01.37.42:986][269]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (135)
+[2021.04.30-01.37.42:986][269]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (133)
+[2021.04.30-01.37.42:993][269]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (131)
+[2021.04.30-01.37.42:997][269]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (129)
+[2021.04.30-01.37.42:997][269]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (127)
+[2021.04.30-01.37.42:997][269]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (125)
+[2021.04.30-01.37.42:997][269]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2021.04.30-01.37.42:997][269]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2021.04.30-01.37.42:997][269]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2021.04.30-01.37.42:997][269]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2021.04.30-01.37.42:997][269]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2021.04.30-01.37.42:997][269]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2021.04.30-01.37.43:000][269]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2021.04.30-01.37.43:011][269]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2021.04.30-01.37.43:011][269]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2021.04.30-01.37.43:011][269]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2021.04.30-01.37.43:011][269]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2021.04.30-01.37.43:012][269]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2021.04.30-01.37.43:012][269]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2021.04.30-01.37.43:012][269]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2021.04.30-01.37.43:012][269]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2021.04.30-01.37.43:012][269]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2021.04.30-01.37.43:012][269]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2021.04.30-01.37.43:012][269]LogModuleManager: Shutting down and abandoning module AVEncoder (90)
+[2021.04.30-01.37.43:012][269]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2021.04.30-01.37.43:012][269]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2021.04.30-01.37.43:012][269]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2021.04.30-01.37.43:012][269]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2021.04.30-01.37.43:012][269]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2021.04.30-01.37.43:013][269]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2021.04.30-01.37.43:013][269]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2021.04.30-01.37.43:018][269]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2021.04.30-01.37.43:018][269]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.04.30-01.37.43:018][269]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC4855235-48B7-ED1A-37B0-19953078A3D8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=63b2106441a3c01843a2709e0048b9bc%7C80c9c4927e3d4d94b58abeeb666275c2%7C69ed4b1f-99de-492b-bd27-a1c7ca32e97b&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2021.04.30-01.37.43:051][269]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2021.04.30-01.37.43:052][269]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2021.04.30-01.37.43:053][269]LogModuleManager: Shutting down and abandoning module Media (61)
+[2021.04.30-01.37.43:054][269]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2021.04.30-01.37.43:054][269]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2021.04.30-01.37.43:054][269]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2021.04.30-01.37.43:054][269]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2021.04.30-01.37.43:054][269]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2021.04.30-01.37.43:054][269]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2021.04.30-01.37.43:054][269]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2021.04.30-01.37.43:054][269]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.04.30-01.37.43:054][269]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.04.30-01.37.43:054][269]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.04.30-01.37.43:054][269]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.04.30-01.37.43:054][269]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.04.30-01.37.43:054][269]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.04.30-01.37.43:055][269]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.04.30-01.37.43:055][269]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.04.30-01.37.43:055][269]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.04.30-01.37.43:055][269]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.04.30-01.37.43:056][269]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.04.30-01.37.43:056][269]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.04.30-01.37.43:056][269]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.04.30-01.37.43:056][269]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.04.30-01.37.43:057][269]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.04.30-01.37.43:057][269]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.04.30-01.37.43:057][269]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.04.30-01.37.43:057][269]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.04.30-01.37.43:057][269]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.04.30-01.37.43:057][269]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.04.30-01.37.43:057][269]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.04.30-01.37.43:057][269]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.04.30-01.37.43:057][269]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.04.30-01.37.43:059][269]LogD3D11RHI: Shutdown
+[2021.04.30-01.37.43:059][269]LogD3D11RHI: CleanupD3DDevice
+[2021.04.30-01.37.43:089][269]LogExit: Exiting.
+[2021.04.30-01.37.43:103][269]Log file closed, 04/29/21 21:37:43
