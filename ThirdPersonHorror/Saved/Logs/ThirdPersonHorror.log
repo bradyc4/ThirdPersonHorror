@@ -7684,3 +7684,7 @@ Script Stack (0 frames):
 [2021.05.04-03.01.10:173][699]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000002BB914C6980), frame # 931699
 [2021.05.04-03.01.10:173][699]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002BB9233FEC0), frame # 931699
 [2021.05.04-03.01.10:196][699]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002BB9239DC00), frame # 931699
+[2021.05.04-03.01.52:975][699]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002BBAB1AE700), frame # 931699
+[2021.05.04-03.01.52:976][699]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002BBF357A000), frame # 931699
+[2021.05.04-03.02.10:835][699]LogExit: Object subsystem successfully closed.
+[2021.05.04-03.02.14:305][699]LogShaderCompilers: Display: Shaders left to compile 0
