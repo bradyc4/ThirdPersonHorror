@@ -8095,3 +8095,5 @@ Script Stack (0 frames):
 [2021.05.04-03.02.56:745][699]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
 [2021.05.04-03.02.58:291][699]LogD3D11RHI: Shutdown
 [2021.05.04-03.02.58:292][699]LogD3D11RHI: CleanupD3DDevice
+[2021.05.04-03.03.01:819][699]LogExit: Exiting.
+[2021.05.04-03.03.02:734][699]Log file closed, 05/03/21 23:03:02
