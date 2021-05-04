@@ -527,3 +527,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.04-03.24.37:497][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
 [2021.05.04-03.24.37:497][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
 [2021.05.04-03.24.37:497][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.04-03.24.41:772][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.04-03.24.42:679][  0]LogDerivedDataCache: Loaded boot cache 0.88s 75MB C:/Users/cbrad/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.05.04-03.24.42:679][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/cbrad/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.05.04-03.24.42:679][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.04-03.24.42:679][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.04-03.24.42:679][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.04-03.24.42:679][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.04-03.24.42:721][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.04-03.24.42:721][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.04-03.24.42:721][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.04-03.24.42:723][  0]LogDerivedDataCache: Using Local data cache path C:/Users/cbrad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.04-03.24.42:723][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.04-03.24.42:723][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.04-03.24.43:045][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.04-03.24.43:124][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.04-03.24.43:817][  0]LogAssetRegistry: FAssetRegistry took 0.0041 seconds to start up
+[2021.05.04-03.24.48:017][  0]LogInit: Selected Device Profile: [Windows]
