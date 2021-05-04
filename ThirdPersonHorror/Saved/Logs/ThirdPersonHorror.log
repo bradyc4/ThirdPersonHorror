@@ -467,3 +467,63 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.04-03.24.24:692][  0]LogInit: Setting process to per monitor DPI aware
 [2021.05.04-03.24.25:696][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
 [2021.05.04-03.24.25:696][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.04-03.24.32:637][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.04-03.24.32:637][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.04-03.24.32:637][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.04-03.24.32:944][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2021.05.04-03.24.32:944][  0]LogD3D11RHI:       2988/0/4067 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.05.04-03.24.32:946][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.04-03.24.32:946][  0]LogD3D11RHI:       0/0/4067 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.04-03.24.32:946][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.04-03.24.32:952][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.04-03.24.32:952][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.04-03.24.32:952][  0]LogWindows: EnumDisplayDevices:
+[2021.05.04-03.24.32:953][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2021.05.04-03.24.32:953][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2021.05.04-03.24.32:953][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2021.05.04-03.24.32:953][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2021.05.04-03.24.32:954][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.05.04-03.24.32:954][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2021.05.04-03.24.32:954][  0]LogD3D11RHI:   Driver Version: 465.89 (internal:27.21.14.6589, unified:465.89)
+[2021.05.04-03.24.32:954][  0]LogD3D11RHI:      Driver Date: 3-25-2021
+[2021.05.04-03.24.32:954][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2021.05.04-03.24.33:095][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.04-03.24.33:106][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.04-03.24.33:106][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.04-03.24.33:512][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.04-03.24.35:538][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.04-03.24.35:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.04-03.24.35:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.04-03.24.35:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.04-03.24.35:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.04-03.24.35:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.04-03.24.35:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.04-03.24.35:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.04-03.24.35:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.04-03.24.35:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.04-03.24.35:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.04-03.24.35:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.04-03.24.35:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.04-03.24.35:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.04-03.24.35:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.04-03.24.35:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.04-03.24.36:000][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.04-03.24.36:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.04-03.24.36:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.04-03.24.36:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.04-03.24.36:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.04-03.24.36:449][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.04-03.24.36:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.04-03.24.36:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.04-03.24.36:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.04-03.24.36:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.04-03.24.36:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.04-03.24.36:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.04-03.24.36:715][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.04-03.24.36:921][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.04-03.24.37:483][  0]LogShaderCompilers: Guid format shader working directory is -46 characters bigger than the processId version (../../../../../../Users/cbrad/OneDrive/Documents/GitHub/ThirdPersonHorror/ThirdPersonHorror/Intermediate/Shaders/WorkingDirectory/14836/).
+[2021.05.04-03.24.37:483][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/cbrad/AppData/Local/Temp/UnrealShaderWorkingDir/457C82024B44EB31BE47E79FC501F15D/'.
+[2021.05.04-03.24.37:497][  0]LogXGEController: Cleaning working directory: C:/Users/cbrad/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.05.04-03.24.37:497][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.05.04-03.24.37:497][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.04-03.24.37:497][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
