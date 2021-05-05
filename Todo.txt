@@ -2,12 +2,20 @@ metal detectors
 puddle of blood and footprints
 objective menu
 
-go to cafeteria
-go to main lobby
-Find the key in main lobby
-go to west corridors
-Find the key in cell block b, laundry room, or kitchen.
-get to the 2nd floor
-find a weapon
-find the key 
-escape
+Quest 1: Escape The Prison
+	Find keys hidden throughout the prison. Unlock doors until you can find the final key which opens the main door to the prison.
+
+Quest 2: Find the cafeteria
+	You can go through the cafeteria to get to the main lobby.
+
+Quest 3: Find a Flashlight
+	There is a flashlight in front of you. Walk over it to pick it up. Equip it using the inventory menu. Press F to toggle the flashlight.
+
+Quest 4: Your First Key
+	The first key is hidden somewhere in this lobby. Use it to open the door to the West Corridor.
+
+Quest 5: There's a key hidden here somewhere
+	There's a key that is hidden in either Cell Block B, the laundry room, or the kitchen. Find the key to unlock the 2nd floor door.
+
+Quest 6: The Final Key
+	The Final Key is hidden somewhere on the 2nd floor. Use it to unlock the main lobby door and escape!
